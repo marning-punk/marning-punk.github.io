@@ -1,32 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>punk2074&#39;s blog</title>
+  <title>morning.punk&#39;s blog</title>
   
   
   <link href="https://punk2074.github.io/atom.xml" rel="self"/>
   
   <link href="https://punk2074.github.io/"/>
-  <updated>2022-08-12T09:43:56.778Z</updated>
+  <updated>2022-12-28T10:08:46.414Z</updated>
   <id>https://punk2074.github.io/</id>
   
   <author>
-    <name>punk2074</name>
+    <name>morning.punk</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>写给孩子的信(1)</title>
+    <link href="https://punk2074.github.io/2022/12/20/baby/2022-12-20/"/>
+    <id>https://punk2074.github.io/2022/12/20/baby/2022-12-20/</id>
+    <published>2022-12-19T16:00:00.000Z</published>
+    <updated>2022-12-28T10:08:46.414Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="b45f04b8c0e65df38f71f5462a4a60c374e1a84fbc1052738f940a49e963067b">2d0cfe13ffccc982b4c9c23c418eb9caee2e3d27ddc073e80f445731efb017bc3eeab9dcacc3958ca8c98e3e53b9400370af1ea71bc780ebb14d09de4ccaaa2fd9361242e9f239d7d2ac2f958bae92af</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    
+    <category term="baby" scheme="https://punk2074.github.io/tags/baby/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小年糕之满月</title>
+    <link href="https://punk2074.github.io/2022/12/06/baby/baby-first-moon/"/>
+    <id>https://punk2074.github.io/2022/12/06/baby/baby-first-moon/</id>
+    <published>2022-12-05T16:00:00.000Z</published>
+    <updated>2022-12-28T10:08:46.414Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="a1ee59f1bef754c0091cb1f4b1c19a7299f1f01cd98ed3cde5832565c756d511">2d0cfe13ffccc982b4c9c23c418eb9ca03608ddf5cad6132a52c09f53770c005da2a2f3517274055a91f66aa20f95278d7bd3eb9bc13e9657ae146c92ad151c576c0362a533def7eba72193187580ef8083ea6d4d4b26239b3c6b839f8c159e9f1269aa6da4eda25d8ed899679f8051d7d65604ffc875304a21a4311f51818c56f140404232bc0b111601a706acfc0cbdf7371d4affd48bf4beb5fb4e6c68b8d9b07f50f1e4d22eab50735676ce02464e9cba470bf451312463c0f7bf1da64aa7e5bdb4825503029797ea4f180c2e86dc4ad7c5975c70a281d60dc786181bfb6976232b067af584eca6db8c9eb77e1c314d788ed3fc576960a85445e7e80163ccad19551a92c663bd8ba4fbbcd1d11c3b4f40135ad5a21dc6329f1159fe636a89f8859b9fffc9012d594e90a038bc41b2d7d87fe2904eb1aac98a21ec826e5628f2d2028c62a9373d26745ef90edc1c46f5d1bb5c97e02a41c7b616168ac2703dd7b8002b0209593dea288c8b7d76450324acfc7bde0f281202161bd6a3f4aef78d1d6dfd2219c3e0d9f8f364e7abf4676241d5f4c2d4aa1c82960d39e009bd0531a0b7619396f4243d6766b956329f1c8b3b6086942043f788bc79d7150f83a18bb7f0c322753e1039fe401388bc56315e2193de34e7728f3c7dc3245505c77171d8633141a9a7226b1a2ddd39fe591e273372803aed11b4ba47c32f7542090a9ecfa9588855daa611c95d6082d8348645afb187776a36afc0b23939eed31ca4d9585a0ac60c1c5557a04430be380a7fc793987480f0b76e870dd8089ecd6dd85a21578bcec9eba9760bcd99767ed49158a9d4d970052a57e61d76ff3aeb390b23bc897cdde9735bc289fcc25b16c423a1997f3a999fb0052fd89159397a95de04007bf4c16e71a1a2617305fe016dcf0804cdb3cadbd54df37f91f752f078df580c00dd43e3389e289405785abac9c693b001785a1b56f8a449b72c7d7acde913dbec8d6ab731fc7cc10e19292679b3691811b6605ecf9019f1a6c62e9da4c9386ea4f6bd96a9cb5710c45ae32371080b618c572abd1d5246b4719b87ca9348d16f7cd97d51cb77ff89a5682d76d0c171a8977d90b7d27d1c14c3e6c8ffdb1bb0bed200e228f7d4d3feb038318c35ebcbfa9eb80702252c1866a58480a0786e1a63eba730df98e2365872946d3b7a1047c16fb5d68ef921069df81f76b7e22e4f2689b2e28def2565b4eeb84c699403af454007860ea93fbfe87f9a52641978005e16c50afc9748a05dc68750ddd419dbb1a7061810b52809355e0df0420d8d36cc1b3e9b77203c50516b64cb2263219eac55d318d4b0e3f86477af18d7cdc0a542abc78756f173e8837570cbf1b87bead3413ef51a9d57c0f3ac75da61eb8d67494522af4288fce3c600657884d663e6e42da7450596f2d68c3d91f4f4be2b54179d7161e81d043a57dd7fee8ae8f09182987b7f643ddc3626ff064b98a2ff88702a5527409e4fa6ccb849fa6420e2b20b0c25bb0939b18223cb3240d40ae39245fa6dd4546f6fe98e1743af6b04e622181e682badce69ceec325fb5cd4db92d416bccc257a79cfa15c60c038f82a213ee55721bf1ce2d7375bf67c23bfef43a5d0ef9a986b48f67691f60c76038a05fab1025088cd227235d869f7ae3b2fd025899838b0ac38707a6efdd4a56aea0b9cc7bbd6b4bfcb7b1a3627e114f1988a8a6104edd86e59d9339ff5f427b161c125215c1d0d4721ed307740c45b7ac8a00f705433381991d402a9e23f217e99944fed900ea8063e48f9098699d19afbc7914281486d9ed8b23ed3d823a72904358f711cd1b3d96771f45d85c99ac00198d47dbfe5c8e39232470c4e247856b7041a79266eb64a7aef63d18bde4df494318f093bc9913914d5ac8f2ad075f67bfca7eeceaf3b79acc038addc0482e149025e6a1ab0f834dc9f051094bc2d4f43</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    
+    <category term="baby" scheme="https://punk2074.github.io/tags/baby/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写给孩子的信(1)</title>
+    <link href="https://punk2074.github.io/2022/12/01/2022-12-01/"/>
+    <id>https://punk2074.github.io/2022/12/01/2022-12-01/</id>
+    <published>2022-11-30T16:00:00.000Z</published>
+    <updated>2022-12-28T10:08:46.413Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="826f130b5aabcc85a10c070d60f040a07a1bb8d037aa2b18ab2080039e835684">e8528dc3fcd650e474a071ce54b1acfb720781dea4ce6a945fde0ae9f837ad062878a91115fb72ed7c54896f730c1918212c0229b5995aa072c20fac135c27d2dedfee234b7c45f73e8c90feeee32362</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    
+    <category term="baby" scheme="https://punk2074.github.io/tags/baby/"/>
+    
+  </entry>
+  
+  <entry>
     <title>八月笔记</title>
-    <link href="https://punk2074.github.io/2022/08/03/2022-08-03/"/>
-    <id>https://punk2074.github.io/2022/08/03/2022-08-03/</id>
+    <link href="https://punk2074.github.io/2022/08/03/note/2022-08-03/"/>
+    <id>https://punk2074.github.io/2022/08/03/note/2022-08-03/</id>
     <published>2022-08-03T07:19:34.000Z</published>
-    <updated>2022-08-12T09:43:56.778Z</updated>
+    <updated>2022-12-28T10:08:46.430Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2022/08/03/2022-08-03/ahphs.jpg" alt="暗黑破坏神.不朽"></p><pre><code>Q3了，但是今年计划什么都没有做好...</code></pre><span id="more"></span><h3 id="计划与实施"><a href="#计划与实施" class="headerlink" title="计划与实施"></a>计划与实施</h3><ul><li>恍惚间，大半年又过去了，感觉自己什么事情都没有做，计划好的事情也没有实施。</li></ul><h3 id="Q3计划"><a href="#Q3计划" class="headerlink" title="Q3计划"></a>Q3计划</h3><ul><li>做好每周记录，每周必须记录做的有意义的一件事情。不限工作、生活、感情</li><li>从今往后，每周做一次视频剪辑并归纳好</li><li>每周末一定要花一个小时做好总结及反思，写下来做了什么，真么没有做好，什么需要改进，就跟周报一样。</li><li>每周一定要做好UE5的笔记，从现在开始要每周进步一点点。<br><img src="/2022/08/03/2022-08-03/jianwangsan.jpeg" alt="剑网三"></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/08/03/note/2022-08-03/ahphs.jpg" alt="暗黑破坏神.不朽"></p><pre><code>Q3了，但是今年计划什么都没有做好...</code></pre><span id="more"></span><h3 id="计划与实施"><a href="#计划与实施" class="headerlink" title="计划与实施"></a>计划与实施</h3><ul><li>恍惚间，大半年又过去了，感觉自己什么事情都没有做，计划好的事情也没有实施。</li></ul><h3 id="Q3计划"><a href="#Q3计划" class="headerlink" title="Q3计划"></a>Q3计划</h3><ul><li>做好每周记录，每周必须记录做的有意义的一件事情。不限工作、生活、感情</li><li>从今往后，每周做一次视频剪辑并归纳好</li><li>每周末一定要花一个小时做好总结及反思，写下来做了什么，真么没有做好，什么需要改进，就跟周报一样。</li><li>每周一定要做好UE5的笔记，从现在开始要每周进步一点点。<br><img src="/2022/08/03/note/2022-08-03/jianwangsan.jpeg" alt="剑网三"></li></ul>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/08/03/2022-08-03/ahphs.jpg&quot; alt=&quot;暗黑破坏神.不朽&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/08/03/note/2022-08-03/ahphs.jpg&quot; alt=&quot;暗黑破坏神.不朽&quot;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;Q3了，但是今年计划什么都没有做好...
 &lt;/code&gt;&lt;/pre&gt;</summary>
     
@@ -39,12 +96,12 @@
   
   <entry>
     <title>写给孩子的信(3)</title>
-    <link href="https://punk2074.github.io/2022/07/12/for-baby-03/"/>
-    <id>https://punk2074.github.io/2022/07/12/for-baby-03/</id>
+    <link href="https://punk2074.github.io/2022/07/12/baby/for-baby-03/"/>
+    <id>https://punk2074.github.io/2022/07/12/baby/for-baby-03/</id>
     <published>2022-07-12T06:47:44.000Z</published>
-    <updated>2022-08-12T09:39:33.376Z</updated>
+    <updated>2022-12-28T10:08:46.417Z</updated>
     
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="64ba91b6fd4bb401c73d92c18da671aef4195b6d36b8293805d92368e037da5a">022a46928792f7aa224adf1b642aeaac11c5ab1a148fc87dac709d4d520711645c2fe1947984f1259b426cb773b7f1e95370a14cc9ccd451a3520f078aa5f56ae9a89a3814e437b9ae43fac3dc470f77b9be6b5256fe7d71a2d889963af3f3a610b7401fa2bf7a74736bd4db121721e86d5995a58becb6b5bcc2f72734e01803c1578b4c78533fe3064c541a5c8aacac3c7507498c9a36f384e94b43fec3c44bbee9d3e7dadd03ef9483a16d5aeb88fea7f79065e47c387ddaa5189fc7c0da812b0cb7daf589e5fbe667899cd62061e43142f392bd9fdde3609e2e3a6d26fac7651f3e92b486c2313b5597ebf201aaf1dc9bc500b094c70f4c5ee3553fc3c9a4e3d8691013f64dc177f23f2124be810f27f770e47aebd5bba1eaf6d8991b4f86351d0eb0c175d1f3f500f13cc159b36248619f433a4422103ef583afd8ea58c98960808c6e48a63d672c4516509e11cc1ed6746e8a74a6bbde4331c3cf4b97e9f4f9611591796aff2ea3c296f426d8468268d1907ab6a9ebc43b8733bdcdac25b596f87b8a16ef1ee4206ee00ea8e766b4a983ac19290bcb40f16f0767c7f748c305c593cf2fb9f138a3df63669a6421287bc3c572331dc78142094e13b2fc1af4ea837ceaf5e15a74ec108be0fab6c0c6f188afc70dcc0e2c06dcc27367922a40e0694f071b59ded1cc23e608f17b105c55b6c8431f96620d4c0cf0973e6059ba65eada12bf22634b3edd135e88553eeaa050fcdea5ae138cef7bbb82a9129dd21c19333f2e95783ed7417590fef741606cabceea1b45b64f8e9dc7e3432d873a9eba9e5356079a3be3b0bbf5319d307f294365979ca8a012c8a14772a2f938a560661dfe3230b696e292938c4fb7a3d800337415e1d4c79b4640090871b2c0f9dcc8a8b2272e14e8069d255b82766b595418bb04ef79bc2dc3612aee04d17e678bd7fdbe77800cd8b953692019d6e97679105161123114d382e3b215f5903d399a22041b5f7cfb648cfc9d35149fc56fbaeaf6cbe79654a496b8dd6da183b4ba8d84d0f6fe1a45f7a74e95087d1063cdaa83b0b8e11b153a7e4bd595a8dd4e6273de08ac4d06e4c25dd567a8afa0014e6bd84d1deccc95b3026ec573c178c0f96bf7aff0d1649222cf00bfdbe16470d3be2efb0b81eb4d9306d8bb7e9e2cd19ae396a99d2dfa6fca8f41a6b99ddc7ad2b916da5f2197267bcf7b1108c71b5b35839525200f2d6db7047afd700d17efe9b0b0c82554f4963a8c1a9dfc4d003d7fb32cc91d487bff534d90717b247e6ee0bb9c6b39672c4e063aaa07d9ff4190bac7c9d26f4e454bdfc4707b662e986fabae832785aec0c830734b39b4d22aac341ebaa8da661ddd98a80079a4edc0c86fbbfa4c764c69345bc44e8fa1e24809abb409d27019d50407a66aae9f62487e3c7921edcfc8e81a823cbda2f825696631ed20d254a7ac73e2cb73abf60796df506e9e139f0a543e4e2a0a9a77089a4fb2f03faa97133b61a6f8c33d9297a0f0fd54651b946e1d57623529fa14c96c5e49b354d4fad87b27204bddfb5907b742bbfa4c4fed7b386a890ec54f81620d1ff8a2e2420df93f870a6e61c56c92bd11da7c5cc38b0101bfea2304517feef2f243f61dd6799cdef9ef8c8efa5d28248f1c7f5ad9e0deb8549b6b228fef0e7049ff02da5516a768c7c6206f880b09602450fc9ea6ff00a8ca23cfef01c7393da004c7ff3c9acd48ef0a396ef02e1f094202f4e2f90805b75508c1564295e44fe7537646a3a8e6f09e0d06a3413bb21d811c1a85b88eb6b5ecd1b2f71234871c764958869b8af210e8bbe58203017cf2059903a65d883f3c0a5b1202f69c15b5f6034316e83ea52238b2aa2f4f80c0b930f6e35cfc2debc51691037196f250d9a5d84cb30e0356a86e98553fed4f020f8ade9fcb9b5cd5e21544024270864b31a3c891eb2e293c89d0ecd7bf9672bb1812f3dbe735d3bf98876a39c805bdb08ebf1445ccf29ef99ab0fb0616b9d4f19358990ccade4edd7bdcb7f2648520c911dd01902427983e76c701bfe0078e8578cfea5092ff83afe370dcf08d0fddfd08dd4a0b7d7a99cbd7e958cb74f0e14454d2589f6dc09bcc39cdefcbcbd34ff48bf04fcffbc7640cf254dcd60c600870265eb1084c9faa214124d2fd94092ba67d2386c975ea336a97bd775faf5501dbb895aa85e82731aadffb5f95828ec8f651e3c23fac031d86010782b5584193ea04c3643847bb332c7273c1823bab8b28a7abcd363bf863fbed58907731f2f643cf5baf3c63cd0e178b4bdcd41625d3551fb4398f8261d989693c00773d9e0bbd566366487de12f12be320daa628b7a6e6fd1261e8d82035ca37232591108e159c00da507d967667c30adf1d6506dc25bbefdfc48d261c651515a3250e51c2f350d5211f0c182df6edbc93bc78549cc6a75e75d5a64574433e3ec72646568322a48a6ba349fc73e43266db282db3122b329c85b69019bc7ee520b477ca640969d4ca39270e5e58a2c405fcc9697d040df6e3343c5468eeac2379a3e0e8516eec254a87ef9c129833c6ba0e73537a4ebf36acea0f534189cdf370440fd1d40db2c0300d63b8bb268b99a6a1d2d4cc55189baddca2b68e1bc1715181c0202e8611173b5745fcef6dd09524ebce5039633e22472a7d467f2d1ed12c2640de50924fec00326d3714adc224a81563ae4bff55d0e9ecb24998f846d315aeaf95e3988a12e09e5a0d3589a1c9ad70434fd386f6d0ebbdb7c6ed4c10b707d4ad45368bf7016e47bce506efce02494d213ebf2b5392ada4888b8ab6c94d0efe311516c1f75ac16395a1fdf0866b8c891dd1213b06bc1eccde280b307a876639754645ae4d789067de909c435126e5b34c6d7915c8a922f</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="57e8ec2a2e189e92fe879ec414561a5752935cdceb8ff21e1231f2b5c872f50b">2d0cfe13ffccc982b4c9c23c418eb9caee2e3d27ddc073e80f445731efb017bc3eeab9dcacc3958ca8c98e3e53b940034eab562a78f7632daaba81d29757d7bd2dc89bd020397a28ed140ecfe8444f72f266313ec9ac681d7c95c16d9271dcac989aa55febeaa9f761be2e94c2f2c4b6719c249a6b10430065a3b0571adcf0b20fa2f65ec39c8a432755a345654729f2cfdf1a77ab354c7dbef0bcf3505faecfadfda593cb4830d2674eba2df590841ced0e5235537506ac2f0476e99427438bcea38a3d599003e9b1b4395ac2c254f341ba8e93819e89ca2a1e6234872aebd598f75a7f2e0356fb0a6be965b0012186d4222cfaac97c83065f8632e2627f9400da91f9775214909244604bc89eb3bc06989e290665c180fc3fadc50747029459b2ea32b72c4c14112b2c6a96f61fcbacf293bb7dd4e89e3d4b48c1b7927a54adfcde6fa16f4d18891c5bc7f3f9587cd4b21bdabb5c89d9b40987dcee75e57fce8c735476d1a7c2ccf91d26b3c2732eea6130b5c156d42d7334f3c011128e4a08b3a3ba12b316b9b0e74f7125157e9fc680c93d59163e44fe0bd925e24b20724c5055d517d3f50c6317503ab9d9f7205b1a14098055d768fc3914dbaef0211f27d7e6802de335689d3e1e1a6785e3b3c08d98f9adaf14d6b927fa89ecd4d772aa77856d9bfc5a30c481a24a1a8c8bfe2f4a334e97d4b10831e365ad7527e53e493b9e68fb6ad07954f052e8f7623d5438177baf08f0cc1221a6d76d587408c31b08e25809d69bbf8c89bb6c508016813517ce53b4b8a16dd69f2372e98a8d370f554f2cc43b1be0e50201c7cf55566987659cad6cba2fede2fdb0b59330871e791082b791a1c30b0ddf28809a9d2efbca026225264d29812dacb601104e9cdc75954302633415080c0dee92ed8161ac020db33b5ba009bb5685c94d1627c32fdf1b12befd87e1e7f6a384e9f17a7edc936527fea23f8afdd6a30de0fcd5a576ad21c2cc15eba59cd8fee36266dc03f3fda907259250d9a092b1f327407eccf98c8684f66c27cece2e3bf6c706847a2e6c053938251c1eb0f09b428be123ffd16f5c4127457af1e1232582e96056d8947f4d2dae5ba031368ed877b3851420e080b887b35a85a1230aee5627a7421d98c2f2934714b8608d75907d2adac7e93c6f0d7021ecbc80f9f64202815d6b0f85a564f7bb9f13dd8e5bfa78f8bd21cfbeb7a8ce35603bbf78d11b33253cacc6c5ee968db951b027b09ec4130b5a8ffa17726772032c36b8bf936241c7af0978c991e03554e737958de30385b4b2d9f1dc6055b680293fbaeae1907a391d5ba7a93f7388960e0f93e05a62e255b4e9f01cbebc856cdbe038809e64f516dd99cdca0f8ec025c9f4c73d489e15fbf615c5032c36a581a61039aa15e77e1bba2656817844b0865e05a7e3f303033b9b1622c24d473daf5aba2fab5f8a1c95f3eeae3b0a641728bf77bbec36131fbfecba21a96a08932a706228133754e842105e42e17cb6867e638fa6c72875340b6798515dafa87fca1d51acf89d24d2ba0cfe646f7c279df349a00af4dd1694d2fdde8a87db91a4cb7655f74cf1b197a094aad7542660ee2d6face028060d2377fe631594cee85c7eadf629948f4a1d673dc21608d1090ea84bb28da2ab5eb0279f61e8d46d6c39eab7ad452fe62f9166ea803c4dcf3ae077815f98326904bb31a4344906a15f7fcdb95660003609de862a082b890405d09389e94c667206181cbeab5c1d05fcc41320c6d348c697037b4cd2c174bf2c887e450d372331e6091cf305d279251a8dcb95cecc2901c1ee5d3b66cb51c0e6b9750579915181aa13c06e0ce22910dd6fd3bbe7f411a5ba21ac164f5d947632027e49916bc6fc89573b331f44d223efd2d531bce8d048060bdd36bc1b4e1a7bb6bb9e63f4a6113b753d7e112cce94d3569b99e0f9f496afe051c709b7ac16a003b9df72e20858c0ed891020c4c0ecd973e54b319ad4202c5f80cb2176e1e4018a55c587caccb15799b06c70affe53b8818ba26cdee76ed4173166a07def47d8763edb100640d1da48413366b95569b50aed51b9627502d41c9ecda9cb6c706396ac926f4e19edebc8392025afff281a1ffcb99a5a701a686cc13fe5279a77be584d0b594dad88afbedf1226a096a5a6b53f40d4c8f21176a6c78478134cd48e75e28362904642bd8f3c1ba956e41823450c257e46040e1979aa51fa8cb3f807c84e3078ad0e489def6600a9f45f29280c2ef7ad6d5486f20d442815bf1f2f4c0b1f5eea350094f1f69a9ff3ce7289ea5a4884b266715268f624ae07c1977799afa2b4af22beff181bcb80f7abc53ce80302e3760c208b26a5492bc929aed5ba76195c585103a9cfbc6392effdca09813090ece647452923e57a5ee9fc0706e7137e31734fa591486e65ad5447c632dcfe0f5b630d8ed19e7b54b5f558e052eb8f409c04ad95e87114d2e835fa5089d708d0bda7b06bf137bda7f6a9956f44b2f552e4e76f09b3b7830034f2fdc3dffe766c6ff18d10d2bd9f870d09ed90582e4f4e6f4b76ab03db64eead88380458976cc984e101a69695e165de3c2931e6b07bbd487d14593ce7fd81a2817c5cf73d0095b8d350ac68d3d84398ccbbac6e8494ed180faccc8cc0441f98eced92ac4aeba74278a79c28e7c059dcfe33ab3c40a178b6d83efa82032a9228c713ae57ee45d9b87938472dde2e824096beda7f13f42625d80dda7296bbfed64744139262063ef94986780c288258f5e41fa51bb02524b104dd28f19d5d211061f76fa4aa153241edf63a9772afab780326f920855dd180255aa67ef7627edee9bf989004d878a4b4482c77317cda37b49af5b33d6a2591279e62f3cc0033f140a5861</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
     
     
     <summary type="html">有东西被加密了, 请输入密码查看.</summary>
@@ -58,15 +115,15 @@
   
   <entry>
     <title>七月笔记</title>
-    <link href="https://punk2074.github.io/2022/07/08/2022-07-08/"/>
-    <id>https://punk2074.github.io/2022/07/08/2022-07-08/</id>
+    <link href="https://punk2074.github.io/2022/07/08/note/2022-07-08/"/>
+    <id>https://punk2074.github.io/2022/07/08/note/2022-07-08/</id>
     <published>2022-07-08T07:07:48.000Z</published>
-    <updated>2022-08-12T09:43:32.465Z</updated>
+    <updated>2022-12-28T10:08:46.427Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2022/07/08/2022-07-08/pubg.jpg" alt="绝地求生"></p><pre><code>买电脑后的疯狂</code></pre><span id="more"></span><h3 id="计划与实施"><a href="#计划与实施" class="headerlink" title="计划与实施"></a>计划与实施</h3><ul><li>电脑买回来，将UE5安装好，跑了下光追的demo。然后就彻底忘记这回事了，感觉自己并没有做好计划。</li><li>转头就下载了steam，装起了游戏，玩的不亦乐乎。装电脑的初衷忘的一干二净。</li><li>说好的看书学习、胎教、照顾宝宝。这些事情好像都抛在了脑后，说好的每周出去游玩，做好视频剪辑，也是做的马马虎虎。</li></ul><h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><ul><li>本周工作上十分忙乎，因为转后端python开发，但是并没有做好代码的编写，小bug无数。愧对十一年的程序员。</li><li>工作安排的不够明确，重复性太多，挑战性太少，学了siddhi、但项目实际使用上并没有多大的帮助；chrome插件写了一些但是还是逃不开前端的技术栈，也不够精通。容易偷懒</li><li>后端、运维技术栈缺的很多，目前自己也不是很肯学。需要时间给自己缓冲</li><li>在待人处事上容易带感情，心态太高了。得做好反思<br><img src="/2022/07/08/2022-07-08/computer.jpg" alt="个人电脑"></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/07/08/note/2022-07-08/pubg.jpg" alt="绝地求生"></p><pre><code>买电脑后的疯狂</code></pre><span id="more"></span><h3 id="计划与实施"><a href="#计划与实施" class="headerlink" title="计划与实施"></a>计划与实施</h3><ul><li>电脑买回来，将UE5安装好，跑了下光追的demo。然后就彻底忘记这回事了，感觉自己并没有做好计划。</li><li>转头就下载了steam，装起了游戏，玩的不亦乐乎。装电脑的初衷忘的一干二净。</li><li>说好的看书学习、胎教、照顾宝宝。这些事情好像都抛在了脑后，说好的每周出去游玩，做好视频剪辑，也是做的马马虎虎。</li></ul><h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><ul><li>本周工作上十分忙乎，因为转后端python开发，但是并没有做好代码的编写，小bug无数。愧对十一年的程序员。</li><li>工作安排的不够明确，重复性太多，挑战性太少，学了siddhi、但项目实际使用上并没有多大的帮助；chrome插件写了一些但是还是逃不开前端的技术栈，也不够精通。容易偷懒</li><li>后端、运维技术栈缺的很多，目前自己也不是很肯学。需要时间给自己缓冲</li><li>在待人处事上容易带感情，心态太高了。得做好反思<br><img src="/2022/07/08/note/2022-07-08/computer.jpg" alt="个人电脑"></li></ul>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/07/08/2022-07-08/pubg.jpg&quot; alt=&quot;绝地求生&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/07/08/note/2022-07-08/pubg.jpg&quot; alt=&quot;绝地求生&quot;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;买电脑后的疯狂
 &lt;/code&gt;&lt;/pre&gt;</summary>
     
@@ -78,16 +135,35 @@
   </entry>
   
   <entry>
+    <title>写给孩子的信(1)</title>
+    <link href="https://punk2074.github.io/2022/07/01/baby/2022-07-01/"/>
+    <id>https://punk2074.github.io/2022/07/01/baby/2022-07-01/</id>
+    <published>2022-06-30T16:00:00.000Z</published>
+    <updated>2022-12-28T10:08:46.413Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="a24b6c72b9b4af35f05d787bbe49520ff295f69b189eadf78cf754890fce03fc">2d0cfe13ffccc982b4c9c23c418eb9caee2e3d27ddc073e80f445731efb017bc3eeab9dcacc3958ca8c98e3e53b940037d408966495503b92776ae1f2b28daf91ba9956daf0f6d5d4af2a5ba09519f2d</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    
+    <category term="baby" scheme="https://punk2074.github.io/tags/baby/"/>
+    
+  </entry>
+  
+  <entry>
     <title>六一儿童节快乐</title>
-    <link href="https://punk2074.github.io/2022/06/01/2022-06-01/"/>
-    <id>https://punk2074.github.io/2022/06/01/2022-06-01/</id>
+    <link href="https://punk2074.github.io/2022/06/01/note/2022-06-01/"/>
+    <id>https://punk2074.github.io/2022/06/01/note/2022-06-01/</id>
     <published>2022-06-01T00:36:28.000Z</published>
-    <updated>2022-07-20T03:40:33.905Z</updated>
+    <updated>2022-12-28T10:08:46.421Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2022/06/01/2022-06-01/ertong.png" alt="儿童节"></p><pre><code>六一儿童节快乐</code></pre><span id="more"></span><h3 id="Children’s-Day"><a href="#Children’s-Day" class="headerlink" title="Children’s Day"></a>Children’s Day</h3><p>又到了儿童节了，但是今年感觉不一样。对于自己身份的变化，对于家庭的责任。有了些许期待  </p><h3 id="gift"><a href="#gift" class="headerlink" title="gift"></a>gift</h3><p>说实话，没有准备礼物给天娇是最大的遗憾，今年最流行的是肯德基的可达鸭，可是因为自己的疏忽没有买到，最后只能去闲鱼找一个代工的，可是货还是没有送到。以后汲取教训，一定要在节日提前一个月就买好礼物，好好顾家<img src="/2022/06/01/2022-06-01/11.gif" alt="可达鸭">  </p><h3 id="for-self"><a href="#for-self" class="headerlink" title="for self"></a>for self</h3><ol><li>昨晚八点起，京东的618活动开启了，我还是没有忍住自己的手配置了一台台式机(总价9077) <ul><li>id-cooling 360水冷 ——388</li><li>振华750电源—————643</li><li>普力魔620q v2————-633</li><li>B660 迫击炮wifi+12700f—2879</li><li>金百达 16G*4 3600 ——–767</li><li>RTX3070 ——————–3777</li></ul></li><li>对于我自己而言，现在做python其实并不是一个能够持久的工作，总觉得自己缺少激情变成了混日子。但是又不得不面对生活生的困窘，事业上真的没有什么进取心及精力。我需要对自己做一次深入的反思然后下好定论(下一篇章反思)</li><li>游戏圈应该是回不去了，但是想做一些能够对孩子有意义的事情，这几年在家庭上亏欠太多。补是永远补不完的，得快速行动起来，时过境迁，要珍惜当下，把握好这个家庭。<br><img src="/2022/06/01/2022-06-01/22.webp" alt="儿童节快乐"></li></ol>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/06/01/note/2022-06-01/ertong.png" alt="儿童节"></p><pre><code>六一儿童节快乐</code></pre><span id="more"></span><h3 id="Children’s-Day"><a href="#Children’s-Day" class="headerlink" title="Children’s Day"></a>Children’s Day</h3><p>又到了儿童节了，但是今年感觉不一样。对于自己身份的变化，对于家庭的责任。有了些许期待  </p><h3 id="gift"><a href="#gift" class="headerlink" title="gift"></a>gift</h3><p>说实话，没有准备礼物给天娇是最大的遗憾，今年最流行的是肯德基的可达鸭，可是因为自己的疏忽没有买到，最后只能去闲鱼找一个代工的，可是货还是没有送到。以后汲取教训，一定要在节日提前一个月就买好礼物，好好顾家<img src="/2022/06/01/note/2022-06-01/11.gif" alt="可达鸭">  </p><h3 id="for-self"><a href="#for-self" class="headerlink" title="for self"></a>for self</h3><ol><li>昨晚八点起，京东的618活动开启了，我还是没有忍住自己的手配置了一台台式机(总价9077) <ul><li>id-cooling 360水冷 ——388</li><li>振华750电源—————643</li><li>普力魔620q v2————-633</li><li>B660 迫击炮wifi+12700f—2879</li><li>金百达 16G*4 3600 ——–767</li><li>RTX3070 ——————–3777</li></ul></li><li>对于我自己而言，现在做python其实并不是一个能够持久的工作，总觉得自己缺少激情变成了混日子。但是又不得不面对生活生的困窘，事业上真的没有什么进取心及精力。我需要对自己做一次深入的反思然后下好定论(下一篇章反思)</li><li>游戏圈应该是回不去了，但是想做一些能够对孩子有意义的事情，这几年在家庭上亏欠太多。补是永远补不完的，得快速行动起来，时过境迁，要珍惜当下，把握好这个家庭。<br><img src="/2022/06/01/note/2022-06-01/22.webp" alt="儿童节快乐"></li></ol>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/06/01/2022-06-01/ertong.png&quot; alt=&quot;儿童节&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/06/01/note/2022-06-01/ertong.png&quot; alt=&quot;儿童节&quot;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;六一儿童节快乐
 &lt;/code&gt;&lt;/pre&gt;</summary>
     
@@ -100,12 +176,12 @@
   
   <entry>
     <title>写给孩子的信(2)</title>
-    <link href="https://punk2074.github.io/2022/05/03/for-baby-02/"/>
-    <id>https://punk2074.github.io/2022/05/03/for-baby-02/</id>
-    <published>2022-05-03T07:21:13.000Z</published>
-    <updated>2022-08-12T09:42:43.967Z</updated>
+    <link href="https://punk2074.github.io/2022/05/03/baby/for-baby-02/"/>
+    <id>https://punk2074.github.io/2022/05/03/baby/for-baby-02/</id>
+    <published>2022-05-02T16:00:00.000Z</published>
+    <updated>2022-12-28T10:08:46.416Z</updated>
     
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="34d0eb14c0c113738aa8fc884ee461840e7e9dc2d7b8127368da15867709c80f">b71341feab9ff55c68bdf92fe6f1c02d9fe9cbb52a7455742304cad9f2345a9b97d78d195b0fd740db798c5700cf817fb76fedfff547920705bf4b12c1da93844cc3178c8f4fb601a82283d15f6be0936bdf9a09ae4fade57abb7593041108067ab244ea3065ceb6dbf843759787b5afacc6efbb162183f0aceec24362876b35367726ccfeaa3accec71d5c0a3590824c424fc25363e3b69f9f052a6d2713232ef9d913398f1677c00c90ae90b73653c38a843c91fbf181ee6d3bc4885f383675006ac4e24aa908013d18fe3bd5bd999dec50be99e90434339a2f0dda7e0d1494e66a0f39b0285c3c5b4311cc4fb13d5619624ed8950fb55b2e46d58dda485de85c8ad3730ab9c3bb4830a5dd127ea4af4efb99b8b8397c3f7a83907d0e21f58f2224218bd1b7b0a5353744173e7768e48db197bc15404c2fd120f177663a19b68d3b6cf8fd35d685f51018626d9576e4485a3ac21c81207cb5ab3615096992075dbf21988d159cba17394cc0b1c366368c1eba3f574cd0cb68a7398d79ff2522b118f989bb999e7356e558640997b232ad916790d94efc74ccc8a2d0af9ca08305c1fa0a1a956dd4b4ac7e38185b4792e35bd5ff12c7a02b4e3e716dd213d6464a63046b437b3ad7ad15daf21e3ccf35331374b2d6834bb73372d489f19f118b3b0e518ded6205c16d5550eb76f70413f8e13d3161c9ccb327b1de1af5efacdefa2fa48988d5ac2dabdd54fa92c1a4e36dd6226e72b477008cb50305484dd23a948c22b96b88367e64f5f25e3fca309ed429ec805f3b9c12376da5974152920d3f328790ca264097d9139e7507dbd2bc9443bef85eb2ba927f13a94976b0ebd0e5f6b893947de89cea82d35b0290d43bdbfa48e60b86be58eb7a1b7e3d0c4d9273c2b51cedd622faf21611170850ef28f65398711819a9543d3625547d044c28058d6992b2d3f40333df6f1132f3a7376f4f31f6f3b449ab3bfade13867850da498666720c710bd85c60bfa0d9c77793f5a375d16672a12fb6f9ede04d3978dbcc9fa9838d77a0d5316f6446988c7cdb433bb2f2a8c5da5bb7090907fb8c5fab32a57ef7cd9122ac735805f1fc6f21efb2d939dd52813025ca58334d9fd3fac3ec822d1693f6aad0f23f3964a279da8d3d2662292b15e7d3a9b66f867c0add0bb71052d223e9210c413bd5b4971aca7b78fa05f4020beb9cd6e2f77800d186d2d579c140f19b01c3a0069aa70c1543680320d64238804601ba811dd21fd1095a008b1682bea95ba9deaecf81cb2543598de9b255bd9c0d0bc167f29be3fc8016583d53dac56bf315fc554bbdb6a1be92ffbc3ff1a119fec0ed9a6389d4cdedde737c1b727490f9e573681f4f6dcf753ac91ce8893db822204e0cbe27c1ce5fd32c1580ac643f21a210f31538cc390f1d410b612151c0f71bac061f68da8b8858ccc36a3f96511d52580ccd8d21c1d2ef939d3d07a56dfa7880fd2c8fc5fb90596f41e446fe43e2c8e5600f59f6591a2fb606a822fe6ab197166d88abd4b225217b9be4a24f9db75068c2b07bcfe66ddd423fca3309720514c4917279481e9a9d4a6c94a50835e9c485caa823ee2b86ddd46c586d8f0ae32696120d70d6ab7b1c988179982bbc57a2138f528dacb88e69df85f4f048ea519fbac718ba635ffa7ae97ecd987a1524ee8a1d7beaa214301b0cc7753ad9a6f24bac12914e708cba92b8df412e20d6886900729abbd2474390b962c1fdfaf889b06c8b24430f67a3c0594e323021e3d5dbe1d2ec01b60720ac8f7fc83ac2ac67afae46693f38b8c638b9644c3c1561267d9edb88313c3276848fd087ac3312af5ad7a34be04a155f36d7e225514fd1642a5bb55f93a7d7d0da698e182905d8c48022dfcbb298fbb54882973c138c89dad9f5f065a55204feaa2a7d173e4f501132aeaf8f0b0807128157da3decf54673dba4378ac61cdcf8a46b1028e0a3f3898f7dfb9272296e94baa09711491bf39eed12372af1d3baaf57d865e8302ef4fc67a09851135e87f7118ce0a1f224294c596a55391bcc74130dc3fa0252f5a4a55b0a2610c69c7b3232efca9fdbaadea2581f6414e6770c09e0820a5ac87ae25fa4ceb7c15d83b72aecbdfcbaaa8163d0c0f2c927814c857d9936058f7ae534a08004692bfcf2aa11e48f8c1963a66dfbb4e1bc2e7c52f4a5e811cc88e27e7d8df439a2538b4f3ceb15a110b8a33d9b6b92e9175ecb245e8d2e7adebc1b4d34bc006ec1f77570233fe9df9959689a05aa874dc7a5cfc52125c8b22632a6bd31e29faaa5c092dc74ed078a3efded07b9cd845c02fdf583bb32e643d2dbbfcfcd3512fae5f36cbc771d8f78b782deca7369c95d25dcf1b4ac881cba5908ba9f2dfe60674697a495d39a1b92002362ebf68f9487c5e8cdfce01ab0a841caa0cfa2de685bad149a1784eea</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="6f1c6f4db6c527702d8cb9c5d79ff17f9662a587615497085515c812a788cdc9">2d0cfe13ffccc982b4c9c23c418eb9caee2e3d27ddc073e80f445731efb017bc3eeab9dcacc3958ca8c98e3e53b94003938417a18241c5c2afd764b90fad1c8de30c3ca2eff8cef5573b218a7e2a998581faf092a9dc332949fb97811a89fd6123f7d90775f80f54eac5ec8e887991360207b2b7ea4c28184f862af718b9c88993812f9c98e07316693c4c40faf8db939e1b86c6be6e556f9da0136cf1e0b1640815622671ed799e525953deccad664ee87be48a516db58b450094634141bfd9481fae599c6e300dd272cf3f66e35976c3bac62d945df4312b59627c8f24d098b189fe0c61d22d55b271a4d6eed3990bb36367ca9e55744d7954da679ddd9d3b2050ae43dffcf7052b12118c772db81c0807e764c69b2d84045cc826b9331bea3979c0a3d11d9e3a966b03cf07406ec3430941cabcbcf186ce213a9b755597b597b42711f8f38c7a2ed94fcaf5c4e00a1721f645a20733de82c725ae8763130401681ec6f8f288ca6567fc1858126a51a6bb4c5c2d1bb918c6b1bd3881115839fda9cc910213d8eac00f84fa646183d16a323560a9f244a1f0f4765b2c3fef295aaa5721ba29e91ff958080bd0e88c5d8aa61b4de958614c2871be3ecd44614ddf3185168ddbaaeb9f5e1b48b3d7a653fd349ddd17efe81acb944ef9bcea1a4650944378c9461c31254ea050bb444ba3aa8d9d41ad79f12d2065605ef25f1cf5e224a4bc59b7bdb49b0302158535006b451f22d8a9b6b850961f1b060de95d3593e06cb130c53620965daeea5741c733dce8da26999e149c5474ea111980174d3e84bf8c29dc4a7d821f92ea66f3cdddc340d884c5461da460600f3c9a2321bd2cc28eb90ac1b28061261abcba30b8ea77fdc2ca6bb13f1480b41275083f0c41e3505a9e8bef812635c5a9089ce08177b5b445db5de334997202436ca0d624ebadcedf0340378eb0ef711b9c8c0aeba1ade143ac409fb3c29a8d7cd89c0a6eb9f82ab2776792657af4648423d6f79523c9d016d4f03e4ad36721087a58a904059096c91aa408ecfaeafffb3b29d73e0e557353e24cee0c5dd6e5e814ac1b066e93e8406b30b46fb2bd2513bd6d56cbc8107ca7321e9eddc052909998973c54786206cdea684d166c5030114067fc6a7e6ddd03f8c9990e1efa0b48a5ae3ddcd25d814a37967fb86a63facb63bbb29fad2ec6f24fd676450606526f51bc8b282eafea104abd032953f39035690577f1ac5eec0da92db3e5bc058b521362bdf5bcfffe5e00bd7e9afdfebe36f880389eaf87e2a32e961a0b9f9dc010cf77b4d1fa430aaa77a92d1b318dcc217cd9e2c9faf353dc7fa9129ccd626e9efd4c937de915fea579c74aa20699c19085d1a720ae5ceea73114888286d09b2f51f9ffbc6e57fcadb90674d90233025ea00037eb958231129cd3580d1203bab8779a60e8b9b220103b9fa088e41f29fbb7d23599cd347ccf300014720723ad47c1072ba6b1f4c131bfb79c1acc9e6e71794a43104f0081c27606373d56eefa00035cd56d12fa26649aa601e2e773b8a5063181096fffdd9b750d77b6b8cb1e4c7c2d257055deec3c6eda9f6e85f3d668f050d8d3df3056fbe47e4bb072f33de9b05fb5c422072e620ab4d2b65571acc2868217e9b5f97fbb57d7e786b8990d6678d516ceda006449ac4afeb33248e1a2dc0e6c1ab73c9af1e190b9e3672b966d7725b0403752b49c960616e6e317e3173f170c25a4736ab5f0039387f858fef044ebaa3f3ddffb873c3b8211ef0479e12815d15e734939e40dde443487f5305caf2bdc2f32684cdf49f59f312465af4009f5cc436251b48dae2d6ab69811e3380fb87f7318d4cefe70ccc6f19e5e19c7ba9fd43b5896e313322fab740e84a031a48771269de8e969c25951fbba39f171aab40acad0f1a46c29362d10247b0c69897fbc20861f46f6de6a41b4ff8b58f1985b0abd9aaa09a77f35cc1db731e871d7d208567681623bbf69bce2329e92a89132fea91ec2a0f56a62f29707d032961e104d93034bb3eb662ccb68cb4dc354d199f51b92f2c657791a778ee99f64b39c324e112bdb1f0270bea962c97af7eb381f12da9469caa363c7e500f2c71392c6e96c743ca74d7ccbb68ce5d276df566fce0aed0e8de0bc7f7a946c86fd3dba75f0a72bd46d16df27f6a0bcb06cd0100dae05f0df6f350a00a2cf37b25940675f0e24fa56bf4fadd654b60ac171ed7e6a76aa494df4acc16bcb7f2c8ca63a6b05a874bb6c60a2b929e7a0c6deed3fab7e37b55225134567bce65b282d54e9f173fc9c7026d1e7fb71ce7da8277c6b43dc43dcf051460d52995f56176eb73ffc38e0af66e5cd91512f26e19b0721c00f4a072de157160fd1362a3bf0fa6e86cdb68edfeaf13c7a312b6adbf2223bd560d9de4096ccf93d0587ccf1bad1cc70ed0ba7e2d6df</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
     
     
     <summary type="html">有东西被加密了, 请输入密码查看.</summary>
@@ -119,81 +195,81 @@
   
   <entry>
     <title>learn_ue_may</title>
-    <link href="https://punk2074.github.io/2022/05/01/2022-05-01/"/>
-    <id>https://punk2074.github.io/2022/05/01/2022-05-01/</id>
+    <link href="https://punk2074.github.io/2022/05/01/ue/2022-05-01/"/>
+    <id>https://punk2074.github.io/2022/05/01/ue/2022-05-01/</id>
     <published>2022-05-01T00:00:00.000Z</published>
-    <updated>2022-07-20T03:40:33.903Z</updated>
+    <updated>2022-12-28T10:08:46.438Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2022/05/01/2022-05-01/huonv.webp" alt="DOTA2"></p><pre><code>五一休假期间的一些知识阅览 </code></pre><span id="more"></span><h3 id="3D-GAME-SHADER-FOR-BEGINNER"><a href="#3D-GAME-SHADER-FOR-BEGINNER" class="headerlink" title="3D-GAME-SHADER-FOR-BEGINNER"></a>3D-GAME-SHADER-FOR-BEGINNER</h3><ul><li><a href="https://github.com/lettier/3d-game-shaders-for-beginners">游戏渲染变成入门</a><ul><li><a href="https://github.com/lettier/3d-game-shaders-for-beginners">下载github</a></li><li>编译(<a href="https://github.com/lettier/3d-game-shaders-for-beginners/issues/22">mac下shader显示有问题</a>)</li></ul><pre><code>clang++ -c src/main.cxx -o 3d-game-shaders-for-beginners.o -std=gnu++11 -g -O2 -I/Library/Developer/Panda3D/includeclang++ 3d-game-shaders-for-beginners.o -o 3d-game-shaders-for-beginners -L/Library/Developer/Panda3D/lib -lp3framework -lpanda -lpandafx -lpandaexpress -lpandaphysics -lp3dtoolconfig -lp3dtool -lpthreadDYLD_LIBRARY_PATH=/Library/Developer/Panda3D/lib ./3d-game-shaders-for-beginners</code></pre></li></ul><h4 id="高质量实时渲染"><a href="#高质量实时渲染" class="headerlink" title="高质量实时渲染"></a>高质量实时渲染</h4><ul><li><a href="https://www.bilibili.com/video/BV1YK4y1T7yY?spm_id_from=333.788.top_right_bar_window_history.content.click">高质量实时渲染(未完成)</a></li></ul><p><img src="/2022/05/01/2022-05-01/aedfh.webp" alt="艾尔登法环"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/05/01/ue/2022-05-01/huonv.webp" alt="DOTA2"></p><pre><code>五一休假期间的一些知识阅览 </code></pre><span id="more"></span><h3 id="3D-GAME-SHADER-FOR-BEGINNER"><a href="#3D-GAME-SHADER-FOR-BEGINNER" class="headerlink" title="3D-GAME-SHADER-FOR-BEGINNER"></a>3D-GAME-SHADER-FOR-BEGINNER</h3><ul><li><a href="https://github.com/lettier/3d-game-shaders-for-beginners">游戏渲染变成入门</a><ul><li><a href="https://github.com/lettier/3d-game-shaders-for-beginners">下载github</a></li><li>编译(<a href="https://github.com/lettier/3d-game-shaders-for-beginners/issues/22">mac下shader显示有问题</a>)</li></ul><pre><code>clang++ -c src/main.cxx -o 3d-game-shaders-for-beginners.o -std=gnu++11 -g -O2 -I/Library/Developer/Panda3D/includeclang++ 3d-game-shaders-for-beginners.o -o 3d-game-shaders-for-beginners -L/Library/Developer/Panda3D/lib -lp3framework -lpanda -lpandafx -lpandaexpress -lpandaphysics -lp3dtoolconfig -lp3dtool -lpthreadDYLD_LIBRARY_PATH=/Library/Developer/Panda3D/lib ./3d-game-shaders-for-beginners</code></pre></li></ul><h4 id="高质量实时渲染"><a href="#高质量实时渲染" class="headerlink" title="高质量实时渲染"></a>高质量实时渲染</h4><ul><li><a href="https://www.bilibili.com/video/BV1YK4y1T7yY?spm_id_from=333.788.top_right_bar_window_history.content.click">高质量实时渲染(未完成)</a></li></ul><p><img src="/2022/05/01/ue/2022-05-01/aedfh.webp" alt="艾尔登法环"></p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/05/01/2022-05-01/huonv.webp&quot; alt=&quot;DOTA2&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/05/01/ue/2022-05-01/huonv.webp&quot; alt=&quot;DOTA2&quot;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;五一休假期间的一些知识阅览 
 &lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
     
-    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
-    
     <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
+    
+    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
     
   </entry>
   
   <entry>
     <title>learn_ue_april</title>
-    <link href="https://punk2074.github.io/2022/04/17/2022-04-17/"/>
-    <id>https://punk2074.github.io/2022/04/17/2022-04-17/</id>
+    <link href="https://punk2074.github.io/2022/04/17/ue/2022-04-17/"/>
+    <id>https://punk2074.github.io/2022/04/17/ue/2022-04-17/</id>
     <published>2022-04-17T10:03:50.000Z</published>
-    <updated>2022-07-20T03:40:33.901Z</updated>
+    <updated>2022-12-28T10:08:46.436Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2022/04/17/2022-04-17/kaer.jpeg" alt="DOTA2"></p><pre><code>四月学习汇总 </code></pre><span id="more"></span><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/136753628">GAME101-现代计算机图形学入门 阅读笔记</a></li><li><a href="https://zhuanlan.zhihu.com/p/495389119?utm_source=wechat_session&utm_medium=social&utm_oi=1330492405716647936">GAME104-Game Engine引擎架构</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>现代计算机图形学入门 <a href="https://www.bilibili.com/video/BV1X7411F744?p=5&spm_id_from=pageDriver">GAME101-闫令琪</a></li></ul><h4 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h4><p>将creator上的《幽灵射手》完全有purets UE4实现(未完成)</p><ul><li>参考 <a href="https://www.zhihu.com/zvideo/1466483392136712192">幽灵射手</a></li></ul><p><img src="/2022/04/17/2022-04-17/jxqy.jpeg" alt="剑侠情缘"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/04/17/ue/2022-04-17/kaer.jpeg" alt="DOTA2"></p><pre><code>四月学习汇总 </code></pre><span id="more"></span><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/136753628">GAME101-现代计算机图形学入门 阅读笔记</a></li><li><a href="https://zhuanlan.zhihu.com/p/495389119?utm_source=wechat_session&utm_medium=social&utm_oi=1330492405716647936">GAME104-Game Engine引擎架构</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>现代计算机图形学入门 <a href="https://www.bilibili.com/video/BV1X7411F744?p=5&spm_id_from=pageDriver">GAME101-闫令琪</a></li></ul><h4 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h4><p>将creator上的《幽灵射手》完全有purets UE4实现(未完成)</p><ul><li>参考 <a href="https://www.zhihu.com/zvideo/1466483392136712192">幽灵射手</a></li></ul><p><img src="/2022/04/17/ue/2022-04-17/jxqy.jpeg" alt="剑侠情缘"></p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/04/17/2022-04-17/kaer.jpeg&quot; alt=&quot;DOTA2&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/04/17/ue/2022-04-17/kaer.jpeg&quot; alt=&quot;DOTA2&quot;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;四月学习汇总 
 &lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
     
-    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
-    
     <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
+    
+    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
     
   </entry>
   
   <entry>
     <title>learn_ue_march</title>
-    <link href="https://punk2074.github.io/2022/03/22/2022-03-22/"/>
-    <id>https://punk2074.github.io/2022/03/22/2022-03-22/</id>
+    <link href="https://punk2074.github.io/2022/03/22/ue/2022-03-22/"/>
+    <id>https://punk2074.github.io/2022/03/22/ue/2022-03-22/</id>
     <published>2022-03-22T10:03:50.000Z</published>
-    <updated>2022-07-20T03:40:33.899Z</updated>
+    <updated>2022-12-28T10:08:46.435Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2022/03/22/2022-03-22/wzry.jpeg" alt="王者荣耀"></p><pre><code>三月学习汇总 </code></pre><span id="more"></span><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/477799165">渲染LightMap</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li><p><a href="https://www.bilibili.com/video/BV1D34y1b7uh/">Stack-O-Bot项目探索UE5功能</a></p></li><li><p><a href="https://www.youtube.com/watch?v=9fqMCSaQ1Nk">YOUTUBE-overview-Stack-O-Bot</a></p></li><li><p><a href="https://www.bilibili.com/video/BV1P3411p7K1?spm_id_from=0.0.header_right.fav_list.click">Slay工作流程教程</a></p></li></ul><p><img src="/2022/03/22/2022-03-22/mrzh.jpeg" alt="明日之后"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/03/22/ue/2022-03-22/wzry.jpeg" alt="王者荣耀"></p><pre><code>三月学习汇总 </code></pre><span id="more"></span><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/477799165">渲染LightMap</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li><p><a href="https://www.bilibili.com/video/BV1D34y1b7uh/">Stack-O-Bot项目探索UE5功能</a></p></li><li><p><a href="https://www.youtube.com/watch?v=9fqMCSaQ1Nk">YOUTUBE-overview-Stack-O-Bot</a></p></li><li><p><a href="https://www.bilibili.com/video/BV1P3411p7K1?spm_id_from=0.0.header_right.fav_list.click">Slay工作流程教程</a></p></li></ul><p><img src="/2022/03/22/ue/2022-03-22/mrzh.jpeg" alt="明日之后"></p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/03/22/2022-03-22/wzry.jpeg&quot; alt=&quot;王者荣耀&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/03/22/ue/2022-03-22/wzry.jpeg&quot; alt=&quot;王者荣耀&quot;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;三月学习汇总 
 &lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
     
-    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
-    
     <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
+    
+    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
     
   </entry>
   
   <entry>
     <title>写给孩子的信(1)</title>
-    <link href="https://punk2074.github.io/2022/03/02/for-baby-01/"/>
-    <id>https://punk2074.github.io/2022/03/02/for-baby-01/</id>
+    <link href="https://punk2074.github.io/2022/03/02/baby/for-baby-01/"/>
+    <id>https://punk2074.github.io/2022/03/02/baby/for-baby-01/</id>
     <published>2022-03-01T16:00:00.000Z</published>
-    <updated>2022-08-12T09:39:44.034Z</updated>
+    <updated>2022-12-28T10:08:46.416Z</updated>
     
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="cb6d48b493c5ee01e2234afc586fbb5428fba26ccb45c39839fdbceda590ffa6">49c3ba937b4f18b8ceae2dddcd2a56226543c23c4d0c10adf487f234a0679a0d75b67e76c2425d22b8aa5926ab57eb53c9acb600bc57ecc2ffd29eb5e74c6c33520f8cc0a6a381b3cfeb673003073744a581a0840c1799a5585240dea48c61fe1260c69342c6b1f9ba975b41be046997e62c420ed8fa8bb378c49e0dd0405e070513cf21e99552df830bd7c003b87e1135c0eee586882e0ac9a04d3f3466d268ab03a39f9f397066ee5baacf725df4c651d4e592e85154838c6546d233c354832a9b744fb785903d47390e00ef87f31f37e494f0835fec28dff196f6a3cb45dd450e91de9bb264f91633aa17daaaf6a5c871eb3aa8f903d0fac0ece164934d034c105be5212ff999089e46abbac61bc28b35083364dfe7adc5cdff43b8c752e6026dafc4a4a57c0d21dbfd34bdc456043ca7a8aa4188c311bdbc4d61f51f5574f551cbdd3c95f700227105967b881cd9e1c148431d40fe4d45689dd660edd05f950c45eded90647079124a6d4442cf04d8b34f89992b00c28e4972b6bb5dd8187c3f085c145c120573d33df9a9f56da64b5ddaedb1c2a0f643929214bf4e1a69cb43624444fb97a76b9a7805eec8cfa8b0f764aafdb64ea900517fe2193888d52fec2b5a358924603e4a36587f6f487d7a329b1e18384e04f959573f7c1fc1118cd06459eafc5ae87a3d2de9a6b0a73431cbd8555c66fe032d2a352a0c7c8919752cb840284ac820beccc1754933aaadf43de4c764846e54eb2a687a946c81e9188e2369a4fa2ed9fd8db865989d4336c407d4a95621c5943b042997632446b4dc3a99d3a658fb39820f0cff9b35bee09b7ec28af59bf4f9916155fbc257bb67ed0976bd8eba9d455b7db126e5b5bab296f3ef418523df64b51c9a2c03b179f4cc4959dd4c790b6efab854d8d39f650376b61de7ef1503fb1906c6b77f6382119b42e24ff5b8455ffd50d1367ec6800d63132890aade17be66b228d2ef28f14ffecd9a8d5463f5671320484caceb26863b7b261fd2765b08e2a025f4add1f3bb0a34a36a0eae0c5a28b58b8619a168843d1e2dcde7dcd6ef733fa3fbd61bf9ff498a7f20f17ec0ea8613e8ee9e648a24c215d8f3a332457961ea3cc1550e3dea0a824b81d2ddf9509eeec49cf9010720baf22b9e1b54f7afe2fd29bf379c4a0a2cf616a13607ef0b021ee7660908939af7ff93d24f4fd7b0f8f0f1231249745f0251738adf2db880a52048cbcce7f4d8f6156eee664528fc2228a7642ca49734e736bf68f5354995a32d82bb66d04f715b2d2ca40e1cd2dd1b3f2c88bc2ab0565e5555c15e89b1074d15638fd9efaf51537d26cefc4b4145f3e98e6c03a8c3ad5e3621f843e37afb3c12073c3ba9c935aa974a03cf26015ec18c2a50eea404ccddf2d3e48b0b1ef5c4e7c4e124492fe4c179b13d1e10c08599554a54c4307b1effccadd21d923b968d9d6dac62dba4ffeaf0abec407d4285cb17a0b607bce0ee1512ba6587c3c4023e058f3cb1fd1087156a4bcda6093068823ea0dc48f5f8fe6759dc6c6ba58ba7f389703ed0d1c5bf34bc0ffe5e0e4131a5aed6921a4605bc07047a42122f210678ef69e9b89ac4cea28dede8b4841a899f3be5bc68f5bcfb63a42cfd851135f5e9d2c09aa4a54afd2bd5e43d5d5799554ac7975be6b43e39188b17892244250b39804b968169af2c6ce8e9a9a7c5a19f1ccdbacedc85f735f9536119c023dec1c64dbe235e0b930cc03bfada7ef56a085692c849ca062606cd984a42e8116aa2c30fc5f5b39827cb6fce03cc1ea9759b8d982d57d32daa040b9387766e41dacf2fe33b19fd08df822b7517949753fc2b71a1ff55ffcd8a088b38e40ac4629043a12cec660b1a387f44b62aed07fb68b657a76725467bfa185f991a77eb87a5f980f82562d73374eb156515943968dabe64c945a25329e373254fec413833cda014d2515f5b8847e439027fcfbd4900153cc73e099d2fe80449a6eaadbda9652e21f4336ebad5e84bfce460e91f24eb7c7e4f42da554abf4cd9c6bcbed3fc6fe77df229183eb964f993b6e322a78d87c1e61efae49073ddcd4f880a93a044dcfa6bf4844d671404f35d60c2ba547ae888630bcf40636f42e17a0c74888f8116094ea34b0eebcfaab33af9b5322ef8788908d3e48a0c847ee381a58eee6ac7561f94bed4bf1944e87ecaa0ec963f3c20cce98bc792ae5e0a6541e72aa6b5ee67c2e9e55a056e7ed42b9d5a5d1af301a4612914da71c8e757b491d73ba4421d7f26a055657766cb6ba1aec929c458f50d55742276528526dc24e4f6537b2e3d3a037a06ce1b535fb0cdab95f89a4dfdd5757e26b9707919001a604231077ba8a1614cf1345ff3e64146d42848fc40c05e7ad81306dd428380a68648c178812e83681257dc04ed122d6365406a04e69633cab15e59c22106a770</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="86de4dfec95810ca105e00a242ce7ad14122a5922de5855f00367f60f42ff849">2d0cfe13ffccc982b4c9c23c418eb9caee2e3d27ddc073e80f445731efb017bc3eeab9dcacc3958ca8c98e3e53b940036a5fe4751019993a603dfe1248accd546f0c636637ac3490bfaf107af4c17177c943a72e796d3b6e436a38071a2098b94bb798f7af607a6531423db3f4905b582944512a1f82e0152e79d6b694f7fe0d52db54f2a6fa669eec603bdcdc6f10012b8730e81857dc817f91ad9d662e5715cb76c2ddb32e90e5fb5a1ac5f1a93f9788a9e5777d2525eede192d779d0dc6631fb642f98a30843b4a40d2e3288499170b814b71c8d5308fbdf9b2f6542902858d166cdd37798d02086018fa0501546ef5f895dccad4d804b441359735b670ebe8104676ea48f5d4296a789f70c86549db9fac4c11e3569c648d619c3ccc9c44c5e426405621aef0d83148dacd293168f2b78e70687da0cca79ecc31cd2f7dd0efda7d8794d363c6184255051fa0afc83304e569f0813d2e8eaf65772f94120c540fbda12caebf322002fa081f686caee7db2de5a392dc1036b6c01490e835a7c425d59a4163db4cf1d9393c82ab3ea7de84e94bcc0ab3bed873f231060112495f48f41cb4ec729e950ec99877faf39768bb56103b5267eeae96ed06633eaee94ec27be8399b338eb8f25fe4d4d12594570b974293cc45e50daa25fd25d154674aeb6591f23942d32232e396dcc3ebca6d583f8aef99795e2b9436ebe6d22962c5138b07bc8f98d0894eb5d80712b3a62c3ad8f67540f10a60cbbe3abc2829ff76a1f114532a6e0295778b5a123c0c916e055ce1d646e7bd2e67ae99974322d645434725d9f377e06e9ac123e9e35dbf12ea82cf0feb99be2e2d1ab4003430a3752525ce24dbdd3784f8e38dba5d5a004727d135ce2b35fcdabd48ba4b957307b76768f3ae8ae06ca75864fd748e7a77a0fed3fb2f4e3567b02b8a51d93762c5015f13ed301b4825c48086632ab6bbc3d558a0e8304cce1c9fa55b9ecc0fc335ab68ed78ba878329911782417a5375aaed41d6671ccf5c95078c3749cac48fb3983299ff20c461bd90f929b4d270df372981091876405cb477de2b75953422189af7969e3711a676b0136f93210be10b596d2823a63b550e5c92d9da37d67312103aac74856c9995139a952cb2616563c1a0366ef2de72f6cfc3869bca23b89e285a7212242df960d4b7e89dab5c70f8891c4eb2538e96a5db196cb60aae49670274c9b5d87536f4752dc41d55d19ab8fb40b97d10d3dc269ab3cece2cbb6eca23288c240804bba77b38febb38d735f848912a72a2122e411b2a72ad047bb413e91ec36b13c8f084b3ac37a265955475a507d303fe841db2b9078490c1c36926b4c1714010ce5d5cf3e63432c66ef06947b4368eefe3affa980fe67dc6df4d8e8124c0685087287eea642e3d80081d4a63ac88f7e213258da684587b47dd0e2ee6f2935a79ef0823a9daa4b76a3598184e554bf46444c4a83fe8dd9bf9c86f78744f0a34c7d10cf5faef9e8832428dfdcc14f9abe2252e2d1d477475776fb4ec6bdad06a7c07e1d1d0d8c8c5793316b1ec5e4f097ba13e65d2e46ff2051872d94dfcef20843e93a08d3a89483caf3daaa136c149a935f78b3f49fdf2b6c2b9f9af1076833fc0a4bf6bf1f30500efc39c4a23de96f647047f13ca3993a977d0707ef1e4fa82c65a6d0665b2c6e7fe5a6b5b8f29a2adfb85e14043342386633e801be71882a8b3f5c41c22f29c7625ed34a9ea4a1ced0dab5a5d877457caab8b846e3ad1a57847a6212e345e5d5c7ea2c780039336b9a1704759f986202497b15cc378c500a23fe648e06f617f34011e177d00776065ba4b2c17a3c139b9a7dc76620840d7119bf129a0da2b08a366ba481040b9a09bac1ae15e3b12ea06f5c244f51ec0a220f9c78aa2e99da46e301a664723b61ac542464ef42651b9ea9c493a889d1c33ba00f271fcb9def4414563ebeb0d1f2684d221b52e5368719527f1f85cb957be7a56d24a3727acd65da0f728bb506ab5d03a99d52d4f2f0a52ed750657f09bb7d308df32dfd68fe6c70a1dc17265d6bac0003fa293d7338a1b5efbe725f781c6280c016764dbf364a9386defd36581ca087ca304957908c2921a7a4074afa92f2d7b49e4aa2c8de898307c07b935186900bcbeea5ebc4095d8cf13bbbbfca83f124d6ed901c09f875115d6ed0491fe2ea1d037f8fed478dc9d8cce73a068b8de4c2a03d3327b5789165a70137d6196c2257fbae65f81b7498df7ade47ee68b88310e26bb993481ef66403639863408789ebc273ea4f5cb4b05ce626da8b0ba72f4c7c338a60f63e91555e9fdcba0d5b1732c1dbbfc1cebe7aaba132b8979a91df6a4a057cec172c02a48a6e1f8ed5b01c75c4438a9d150358bc48f79ccdb7eec294ecd0108f7bf7b462da14fb53d9968be3b819459c18f43841c3e79</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
     
     
     <summary type="html">有东西被加密了, 请输入密码查看.</summary>
@@ -207,33 +283,33 @@
   
   <entry>
     <title>learn_ue5</title>
-    <link href="https://punk2074.github.io/2022/02/28/learn-ue5/"/>
-    <id>https://punk2074.github.io/2022/02/28/learn-ue5/</id>
+    <link href="https://punk2074.github.io/2022/02/28/ue/learn-ue5/"/>
+    <id>https://punk2074.github.io/2022/02/28/ue/learn-ue5/</id>
     <published>2022-02-28T12:33:25.000Z</published>
-    <updated>2022-07-20T03:40:33.928Z</updated>
+    <updated>2022-12-28T10:08:46.439Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2022/02/28/learn-ue5/aedfh.jpg" alt="艾尔登法环"></p><pre><code>learnning ue5 </code></pre><span id="more"></span><h4 id="碎碎"><a href="#碎碎" class="headerlink" title="碎碎"></a>碎碎</h4><p>这个月刚好是新年伊始，然后UE5_Preview版本也出了，还出了个demo，于是就打算搞起来了，说实话，知乎上讲UE5的文章越来越多了，但是还是喜欢大钊的博客。所以文末给了insideUE5的链接，能够受益匪浅的。</p><h3 id="初学者包"><a href="#初学者包" class="headerlink" title="初学者包"></a>初学者包</h3><p>整个包体其实不是很大，比原先预览版的大地图小很多。不过该有的内容都有</p><ul><li><a href="https://www.unrealengine.com/zh-CN/tech-blog/download-an-unreal-engine-5-early-access-game-starter-kit-featuring-a-small-robot">初学者包</a></li></ul><p><img src="/2022/02/28/learn-ue5/zhilang.jpg" alt="只狼"></p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/464013151">虚幻5渲染编程</a>  </li><li><a href="https://www.zhihu.com/column/insideue4">InsideUE5)</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/02/28/ue/learn-ue5/aedfh.jpg" alt="艾尔登法环"></p><pre><code>learnning ue5 </code></pre><span id="more"></span><h4 id="碎碎"><a href="#碎碎" class="headerlink" title="碎碎"></a>碎碎</h4><p>这个月刚好是新年伊始，然后UE5_Preview版本也出了，还出了个demo，于是就打算搞起来了，说实话，知乎上讲UE5的文章越来越多了，但是还是喜欢大钊的博客。所以文末给了insideUE5的链接，能够受益匪浅的。</p><h3 id="初学者包"><a href="#初学者包" class="headerlink" title="初学者包"></a>初学者包</h3><p>整个包体其实不是很大，比原先预览版的大地图小很多。不过该有的内容都有</p><ul><li><a href="https://www.unrealengine.com/zh-CN/tech-blog/download-an-unreal-engine-5-early-access-game-starter-kit-featuring-a-small-robot">初学者包</a></li></ul><p><img src="/2022/02/28/ue/learn-ue5/zhilang.jpg" alt="只狼"></p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/464013151">虚幻5渲染编程</a>  </li><li><a href="https://www.zhihu.com/column/insideue4">InsideUE5)</a></li></ul>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/02/28/learn-ue5/aedfh.jpg&quot; alt=&quot;艾尔登法环&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/02/28/ue/learn-ue5/aedfh.jpg&quot; alt=&quot;艾尔登法环&quot;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;learnning ue5 
 &lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
     
-    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
-    
     <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
+    
+    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
     
   </entry>
   
   <entry>
     <title>Learnning_ue</title>
-    <link href="https://punk2074.github.io/2022/01/15/Learnning-ue/"/>
-    <id>https://punk2074.github.io/2022/01/15/Learnning-ue/</id>
+    <link href="https://punk2074.github.io/2022/01/15/ue/Learnning-ue/"/>
+    <id>https://punk2074.github.io/2022/01/15/ue/Learnning-ue/</id>
     <published>2022-01-15T13:05:14.000Z</published>
-    <updated>2022-07-20T03:40:33.922Z</updated>
+    <updated>2022-12-28T10:08:46.439Z</updated>
     
     <content type="html"><![CDATA[<pre><code>learnning ue </code></pre><span id="more"></span><h4 id="UE"><a href="#UE" class="headerlink" title="UE"></a>UE</h4><p>重拾UE学习。视频就不看了，以前记得的内容也都忘记了，现在就重新学习吧，也是从一个简单的游戏开始，</p><h3 id="puerts"><a href="#puerts" class="headerlink" title="puerts"></a>puerts</h3><p>最近用的是ts(js),索性这回写游戏就用ts吧。于是乎就发现了腾讯大佬开源的puerts。这不，第一个游戏就出来了。回头再补充相关的说明文档吧，群也加了，就是要好好学学。</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://github.com/Tencent/puerts">puerts</a>  </li><li><a href="https://github.com/chexiongsheng/puerts_fps_demo">第一个UE案例(FPS)</a></li></ul>]]></content>
     
@@ -244,9 +320,9 @@
     
     
     
-    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
-    
     <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
+    
+    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
     
   </entry>
   
@@ -294,15 +370,15 @@
   
   <entry>
     <title>inside_creator_3_astart</title>
-    <link href="https://punk2074.github.io/2021/02/28/inside-creator-3-astart/"/>
-    <id>https://punk2074.github.io/2021/02/28/inside-creator-3-astart/</id>
+    <link href="https://punk2074.github.io/2021/02/28/creator/inside-creator-3-astart/"/>
+    <id>https://punk2074.github.io/2021/02/28/creator/inside-creator-3-astart/</id>
     <published>2021-02-28T02:07:47.000Z</published>
-    <updated>2022-07-20T03:40:33.923Z</updated>
+    <updated>2022-12-28T10:08:46.417Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2021/02/28/inside-creator-3-astart/1.jpg" alt="cover"></p><pre><code>cocos creator3.x 之六边形A* 算法</code></pre><span id="more"></span><h4 id="导航"><a href="#导航" class="headerlink" title="导航"></a>导航</h4><p>地图已经制作完成的话，就需要导航，让角色走到指定位置，并且自动避开障碍物.从而产生了寻路算法，市面上很多算法,A<em>、D</em>、导航网格等，但万变不离其宗，都是要找出最近的路。我只拿最简单的A*算法来做</p><h4 id="A-算法"><a href="#A-算法" class="headerlink" title="A*算法"></a>A*算法</h4><ol><li>将起始节点加入open列表中</li><li>判断open节点，空则搜索失败，如果open列表存在目标节点，则搜索成功</li><li>根据F &#x3D; G + H从open列表中找出F最小的节点作为当前节点，并将其加入close列表中</li><li>计算当前节点相邻的六个节点(排除障碍物)，组成一组子节点，对每个子节点做判断<ul><li>如果该节点在close列表中，丢弃。</li><li>如果该节点在open列表中，检查当前节点的F值是否更小，如果更小则更新F值，并将父节点设置为当前节点</li><li>如果该节点不在open列表中，则将其假如open列表，并计算F值，设置其父节点为当前节点</li></ul></li><li>重复2步骤</li></ol><h4 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h4><p><img src="/2021/02/28/inside-creator-3-astart/2.jpg" alt="效果图"> </p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/112849816">六边形A*算法</a></li><li><a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">A*算法简述(英文)</a></li><li><a href="https://www.cnblogs.com/iwiniwin/p/10793654.html">A*算法简述(中文)</a>  </li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/3_find_astar">github示例</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2021/02/28/creator/inside-creator-3-astart/1.jpg" alt="cover"></p><pre><code>cocos creator3.x 之六边形A* 算法</code></pre><span id="more"></span><h4 id="导航"><a href="#导航" class="headerlink" title="导航"></a>导航</h4><p>地图已经制作完成的话，就需要导航，让角色走到指定位置，并且自动避开障碍物.从而产生了寻路算法，市面上很多算法,A<em>、D</em>、导航网格等，但万变不离其宗，都是要找出最近的路。我只拿最简单的A*算法来做</p><h4 id="A-算法"><a href="#A-算法" class="headerlink" title="A*算法"></a>A*算法</h4><ol><li>将起始节点加入open列表中</li><li>判断open节点，空则搜索失败，如果open列表存在目标节点，则搜索成功</li><li>根据F &#x3D; G + H从open列表中找出F最小的节点作为当前节点，并将其加入close列表中</li><li>计算当前节点相邻的六个节点(排除障碍物)，组成一组子节点，对每个子节点做判断<ul><li>如果该节点在close列表中，丢弃。</li><li>如果该节点在open列表中，检查当前节点的F值是否更小，如果更小则更新F值，并将父节点设置为当前节点</li><li>如果该节点不在open列表中，则将其假如open列表，并计算F值，设置其父节点为当前节点</li></ul></li><li>重复2步骤</li></ol><h4 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h4><p><img src="/2021/02/28/creator/inside-creator-3-astart/2.jpg" alt="效果图"> </p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/112849816">六边形A*算法</a></li><li><a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">A*算法简述(英文)</a></li><li><a href="https://www.cnblogs.com/iwiniwin/p/10793654.html">A*算法简述(中文)</a>  </li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/3_find_astar">github示例</a></li></ul>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/02/28/inside-creator-3-astart/1.jpg&quot; alt=&quot;cover&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/02/28/creator/inside-creator-3-astart/1.jpg&quot; alt=&quot;cover&quot;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;cocos creator3.x 之六边形A* 算法
 &lt;/code&gt;&lt;/pre&gt;</summary>
     
@@ -313,33 +389,33 @@
   
   <entry>
     <title>inside_creator_2_hexagon_terrain</title>
-    <link href="https://punk2074.github.io/2021/02/20/inside_creator_2_hexagon_terrain/"/>
-    <id>https://punk2074.github.io/2021/02/20/inside_creator_2_hexagon_terrain/</id>
+    <link href="https://punk2074.github.io/2021/02/20/creator/inside_creator_2_hexagon_terrain/"/>
+    <id>https://punk2074.github.io/2021/02/20/creator/inside_creator_2_hexagon_terrain/</id>
     <published>2021-02-20T03:28:33.000Z</published>
-    <updated>2022-07-20T03:40:33.925Z</updated>
+    <updated>2022-12-28T10:08:46.418Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2021/02/20/inside_creator_2_hexagon_terrain/3.jpg" alt="cover"></p><pre><code>cocos creator3.x 之六边形地形</code></pre><span id="more"></span><h4 id="地形网格"><a href="#地形网格" class="headerlink" title="地形网格"></a>地形网格</h4><p>游戏，少不了地图，而地图就需要有坐标，有正方形、六边形等，这里采用六边形是因为任何对于计算六边形到六边形的距离都是一致的，而正方形一边少，二会出现次相邻情况.如下图，但是其实也各有优劣，视项目情况而定吧。<br><img src="/2021/02/20/inside_creator_2_hexagon_terrain/1.jpg" alt="地形距离比较">  </p><h4 id="地形制作"><a href="#地形制作" class="headerlink" title="地形制作"></a>地形制作</h4><ul><li>制作六边形地形，为了便于调试，制作两个quad地形</li><li>地图设定及相关代码处理</li><li>使用射线检测来添加触摸地形快操作</li></ul><h4 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h4><p><img src="/2021/02/20/inside_creator_2_hexagon_terrain/2.jpg" alt="效果图"> </p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/editor/terrain/">地形Terrain</a></li><li><a href="https://indienova.com/indie-game-development/hex-grids-reference/">六边形设计(中文)</a></li><li><a href="https://www.redblobgames.com/grids/hexagons/">六边形(原版英文)</a>  </li><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/physics/physics-raycast.html?h=screenpointtoray">射线检测</a>  </li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/2_hexagon_terrain">github示例</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2021/02/20/creator/inside_creator_2_hexagon_terrain/3.jpg" alt="cover"></p><pre><code>cocos creator3.x 之六边形地形</code></pre><span id="more"></span><h4 id="地形网格"><a href="#地形网格" class="headerlink" title="地形网格"></a>地形网格</h4><p>游戏，少不了地图，而地图就需要有坐标，有正方形、六边形等，这里采用六边形是因为任何对于计算六边形到六边形的距离都是一致的，而正方形一边少，二会出现次相邻情况.如下图，但是其实也各有优劣，视项目情况而定吧。<br><img src="/2021/02/20/creator/inside_creator_2_hexagon_terrain/1.jpg" alt="地形距离比较">  </p><h4 id="地形制作"><a href="#地形制作" class="headerlink" title="地形制作"></a>地形制作</h4><ul><li>制作六边形地形，为了便于调试，制作两个quad地形</li><li>地图设定及相关代码处理</li><li>使用射线检测来添加触摸地形快操作</li></ul><h4 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h4><p><img src="/2021/02/20/creator/inside_creator_2_hexagon_terrain/2.jpg" alt="效果图"> </p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/editor/terrain/">地形Terrain</a></li><li><a href="https://indienova.com/indie-game-development/hex-grids-reference/">六边形设计(中文)</a></li><li><a href="https://www.redblobgames.com/grids/hexagons/">六边形(原版英文)</a>  </li><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/physics/physics-raycast.html?h=screenpointtoray">射线检测</a>  </li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/2_hexagon_terrain">github示例</a></li></ul>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/02/20/inside_creator_2_hexagon_terrain/3.jpg&quot; alt=&quot;cover&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/02/20/creator/inside_creator_2_hexagon_terrain/3.jpg&quot; alt=&quot;cover&quot;&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;cocos creator3.x 之六边形地形
 &lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
     
-    <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
-    
     <category term="Creator" scheme="https://punk2074.github.io/tags/Creator/"/>
+    
+    <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
     
   </entry>
   
   <entry>
     <title>inside_creator_1_plugin</title>
-    <link href="https://punk2074.github.io/2021/02/15/inside_creator_1_plugin/"/>
-    <id>https://punk2074.github.io/2021/02/15/inside_creator_1_plugin/</id>
+    <link href="https://punk2074.github.io/2021/02/15/creator/inside_creator_1_plugin/"/>
+    <id>https://punk2074.github.io/2021/02/15/creator/inside_creator_1_plugin/</id>
     <published>2021-02-15T04:19:41.000Z</published>
-    <updated>2022-07-20T03:40:33.925Z</updated>
+    <updated>2022-12-28T10:08:46.418Z</updated>
     
     <content type="html"><![CDATA[<pre><code>cocos creator3.x 之插件编写</code></pre><span id="more"></span><h4 id="关于插件"><a href="#关于插件" class="headerlink" title="关于插件"></a>关于插件</h4><p>一般对于游戏开发者，大部分都会与excel打交道，策划给角色或者怪物配置的血量、等级、技能等。关卡信息、奖励道具等。还有美术给的动作名称、技能帧等，包括一些活动配置等游戏中用得到并且在上线前频繁修改的数据，对于这些数据而言，有一个规范、容易编辑、更新的工具对整个项目来说是事半功倍的效果。特此，插件就派上场了。</p><h4 id="插件制作"><a href="#插件制作" class="headerlink" title="插件制作"></a>插件制作</h4><p>插件的制作参考以下链接  </p><ul><li><a href="https://mp.weixin.qq.com/s?__biz=MjM5ODAxNTM2NA==&mid=2659664592&idx=1&sn=9793c8f33cdf2c73b4cbaa9af9944d45&chksm=bda2da3b8ad5532d18296c170e3953f66c0e85ee715f3d75f2e1cafe2219a033cd44c9257aac&scene=178&cur_album_id=1761139408994385920#rd">深入 Cocos Creator 3.0 的插件扩展系统</a>  </li><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/editor/extension/readme.html">扩展编辑器</a></li></ul><h4 id="插件使用"><a href="#插件使用" class="headerlink" title="插件使用"></a>插件使用</h4><ul><li>目录结构</li></ul><pre><code>rootdir  |--client    |--extensions    |--assets      |--scripts        |--db           #最终生成.ts脚本配置的文件夹  |--design    |--excel      |--role.xls       #配表文件      |--monster.xls    #配表文件    |--tool             #导表等工具</code></pre><ul><li>策划安装规范定义好excel表</li><li>通过Creator中Developer-&gt;导出即可<br>  1.插件会调用<code>rootdir\design\tool\export2ts.bat</code>(mac下sh)执行python脚本<br>  2.python会将excel文件夹下xls文件导出至<code>\rootdir\client\assets\scripts\db\</code>文件夹中</li><li>python需要安装相关node插件</li><li>相关说明放在<code>tool/readme.md</code>文件内</li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/1_plugin">github示例</a></li></ul>]]></content>
     
@@ -350,29 +426,9 @@
     
     
     
-    <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
-    
     <category term="Creator" scheme="https://punk2074.github.io/tags/Creator/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://punk2074.github.io/2021/01/01/hello-world/"/>
-    <id>https://punk2074.github.io/2021/01/01/hello-world/</id>
-    <published>2020-12-31T16:00:00.000Z</published>
-    <updated>2022-07-20T03:40:33.923Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo">Hexo</a>! This is your very first post. Check <a href="http://zespia.tw/hexo/docs">documentation</a> to learn how to use.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;http://zespia.tw/hexo&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://zespia.tw/hexo/docs&quot;&gt;documentati</summary>
-      
-    
-    
-    
+    <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
     
   </entry>
   
