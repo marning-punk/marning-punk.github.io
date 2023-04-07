@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>模型训练</title>
+    <link href="/2023/04/05/2023/2023-04-05/"/>
+    <url>/2023/04/05/2023/2023-04-05/</url>
+    
+    <content type="html"><![CDATA[<h3 id="图片替换"><a href="#图片替换" class="headerlink" title="图片替换"></a>图片替换</h3><p><a href="https://github.com/cmdr2/stable-diffusion-ui">Stable-Diffusion</a></p><h4 id="图片识别"><a href="#图片识别" class="headerlink" title="图片识别"></a>图片识别</h4><ul><li><a href="https://segment-anything.com/">META开源</a></li></ul><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"video":{"url":"https://segment-anything.com/assets/section-1.1b.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> <p><img src="/post_images/2023/png_make.jpg" alt="人工智能"> </p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>交易之旅</title>
     <link href="/2023/04/02/2023/blockchain/2023-04-02/"/>
     <url>/2023/04/02/2023/blockchain/2023-04-02/</url>
@@ -166,9 +185,9 @@
     
     <tags>
       
-      <tag>UE</tag>
-      
       <tag>Game</tag>
+      
+      <tag>UE</tag>
       
     </tags>
     
@@ -187,9 +206,9 @@
     
     <tags>
       
-      <tag>UE</tag>
-      
       <tag>Game</tag>
+      
+      <tag>UE</tag>
       
     </tags>
     
@@ -208,9 +227,9 @@
     
     <tags>
       
-      <tag>UE</tag>
-      
       <tag>Game</tag>
+      
+      <tag>UE</tag>
       
     </tags>
     
@@ -229,9 +248,9 @@
     
     <tags>
       
-      <tag>UE</tag>
-      
       <tag>Game</tag>
+      
+      <tag>UE</tag>
       
     </tags>
     
@@ -250,9 +269,9 @@
     
     <tags>
       
-      <tag>UE</tag>
-      
       <tag>Game</tag>
+      
+      <tag>UE</tag>
       
     </tags>
     
@@ -322,9 +341,9 @@
     
     <tags>
       
-      <tag>Game</tag>
-      
       <tag>Creator</tag>
+      
+      <tag>Game</tag>
       
     </tags>
     
@@ -343,9 +362,9 @@
     
     <tags>
       
-      <tag>Game</tag>
-      
       <tag>Creator</tag>
+      
+      <tag>Game</tag>
       
     </tags>
     
