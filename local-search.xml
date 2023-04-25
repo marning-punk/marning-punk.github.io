@@ -4,11 +4,30 @@
   
   
   <entry>
+    <title>提车</title>
+    <link href="/2023/04/16/2023/2023-04-16/"/>
+    <url>/2023/04/16/2023/2023-04-16/</url>
+    
+    <content type="html"><![CDATA[<h3 id="提车"><a href="#提车" class="headerlink" title="提车"></a>提车</h3><ul><li>今天终于去蟹岛提了心爱的特斯拉Model Y，成为了尊贵的特斯拉车主(司机)</li><li>提车流程超级简单，9点到蟹岛办完临牌就可以开走了。期间还去顺义山姆逛了一圈</li><li>总共开了57KM，终于开会了小泥湾。第一次开这么久的车，不过还好一切顺畅</li><li>小区不给租户停车，只能停马路边了。等以后有实力买新房了再换吧，北京的生活成本确实是有点高。</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>模型训练</title>
     <link href="/2023/04/05/2023/2023-04-05/"/>
     <url>/2023/04/05/2023/2023-04-05/</url>
     
-    <content type="html"><![CDATA[<h3 id="图片替换"><a href="#图片替换" class="headerlink" title="图片替换"></a>图片替换</h3><ul><li><a href="https://github.com/cmdr2/stable-diffusion-ui">Stable-Diffusion</a></li></ul><h3 id="图片识别"><a href="#图片识别" class="headerlink" title="图片识别"></a>图片识别</h3><ul><li><a href="https://segment-anything.com/">META开源</a></li></ul><h3 id="结余"><a href="#结余" class="headerlink" title="结余"></a>结余</h3><ul><li>前有chatgpt，后又发现很多很对基于模型训练的ai如雨后春笋般冒出(可能是很久没关注)，真的是这个世界开始变革了。会有一大波很多的机会出现，我们静观其变吧！</li></ul><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"loop":true,"video":{"url":"https://segment-anything.com/assets/section-1.1b.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> ]]></content>
+    <content type="html"><![CDATA[<h3 id="图片替换"><a href="#图片替换" class="headerlink" title="图片替换"></a>图片替换</h3><ul><li><a href="https://github.com/cmdr2/stable-diffusion-ui">Stable-Diffusion</a></li></ul><h3 id="图片识别"><a href="#图片识别" class="headerlink" title="图片识别"></a>图片识别</h3><ul><li><a href="https://segment-anything.com/">META开源</a></li></ul><h3 id="图片识别加替换"><a href="#图片识别加替换" class="headerlink" title="图片识别加替换"></a>图片识别加替换</h3><ul><li><a href="https://github.com/IDEA-Research/Grounded-Segment-Anything">识别并替换</a></li></ul><h3 id="结余"><a href="#结余" class="headerlink" title="结余"></a>结余</h3><ul><li>前有chatgpt，后又发现很多很对基于模型训练的ai如雨后春笋般冒出(可能是很久没关注)，真的是这个世界开始变革了。会有一大波很多的机会出现，我们静观其变吧！</li></ul><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"loop":true,"video":{"url":"https://segment-anything.com/assets/section-1.1b.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> ]]></content>
     
     
     
