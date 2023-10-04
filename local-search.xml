@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>UE5-添加PuerTS及reactUMG</title>
+    <link href="/2023/10/04/2023/2023-10-04/"/>
+    <url>/2023/10/04/2023/2023-10-04/</url>
+    
+    <content type="html"><![CDATA[<h3 id="变化"><a href="#变化" class="headerlink" title="变化"></a>变化</h3><ul><li>得对自己做一个改变了</li></ul><h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>总有一天你会笑着说出曾经令你痛苦的事情</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/632862773">知乎UE5安装方式</a>  </li><li><a href="https://puerts.github.io/docs/puerts/unreal/install">PuerTS官方文档)</a></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>UE</tag>
+      
+      <tag>Game</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>变</title>
+    <link href="/2023/08/07/2023/2023-08-07/"/>
+    <url>/2023/08/07/2023/2023-08-07/</url>
+    
+    <content type="html"><![CDATA[<h3 id="变化"><a href="#变化" class="headerlink" title="变化"></a>变化</h3><ul><li>得对自己做一个改变了</li></ul><h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>总有一天你会笑着说出曾经令你痛苦的事情</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>提车</title>
+    <link href="/2023/04/16/2023/2023-04-16/"/>
+    <url>/2023/04/16/2023/2023-04-16/</url>
+    
+    <content type="html"><![CDATA[<h3 id="提车"><a href="#提车" class="headerlink" title="提车"></a>提车</h3><ul><li>今天终于去蟹岛提了心爱的特斯拉Model Y，成为了尊贵的特斯拉车主(司机)</li><li>提车流程超级简单，9点到蟹岛办完临牌就可以开走了。期间还去顺义山姆逛了一圈</li><li>总共开了57KM，终于开回了小泥湾。第一次开这么久的车，不过还好一切顺畅</li><li>小区不给租户停车，只能停马路边了。等以后有实力买新房了再换吧，北京的生活成本确实是有点高。</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>模型训练</title>
+    <link href="/2023/04/05/2023/2023-04-05/"/>
+    <url>/2023/04/05/2023/2023-04-05/</url>
+    
+    <content type="html"><![CDATA[<h3 id="图片替换"><a href="#图片替换" class="headerlink" title="图片替换"></a>图片替换</h3><ul><li><a href="https://github.com/cmdr2/stable-diffusion-ui">Stable-Diffusion</a></li></ul><h3 id="图片识别"><a href="#图片识别" class="headerlink" title="图片识别"></a>图片识别</h3><ul><li><a href="https://segment-anything.com/">META开源</a></li></ul><h3 id="图片识别加替换"><a href="#图片识别加替换" class="headerlink" title="图片识别加替换"></a>图片识别加替换</h3><ul><li><a href="https://github.com/IDEA-Research/Grounded-Segment-Anything">识别并替换</a></li></ul><h3 id="结余"><a href="#结余" class="headerlink" title="结余"></a>结余</h3><ul><li>前有chatgpt，后又发现很多很对基于模型训练的ai如雨后春笋般冒出(可能是很久没关注)，真的是这个世界开始变革了。会有一大波很多的机会出现，我们静观其变吧！</li></ul><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"autoplay":true,"loop":true,"video":{"url":"https://segment-anything.com/assets/section-1.1b.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> ]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>chatGPT</title>
+    <link href="/2023/02/09/2023/2023-02-10/"/>
+    <url>/2023/02/09/2023/2023-02-10/</url>
+    
+    <content type="html"><![CDATA[<h3 id="ai"><a href="#ai" class="headerlink" title="ai"></a>ai</h3><p><a href="https://chat.openai.com/chat">chatGPT</a><br>openAI十年前的Blog<a href="https://blog.samaltman.com/how-to-be-successful">how-to-be-successfull</a></p><h4 id="chatGPT"><a href="#chatGPT" class="headerlink" title="chatGPT"></a>chatGPT</h4><ul><li>chatGPT解决了什么问题</li><li>是机器训练、机器学习、机器理解。现在到那一阶段了</li><li>我们用chatGPT来干什么</li></ul><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"video":{"url":"/video/aaa.mov"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> <p><img src="/post_images/2023/rengongzhineng.jpg" alt="人工智能"> </p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2023春节</title>
+    <link href="/2023/01/17/2023/2023-01-27/"/>
+    <url>/2023/01/17/2023/2023-01-27/</url>
+    
+    <content type="html"><![CDATA[<h3 id="春节"><a href="#春节" class="headerlink" title="春节"></a>春节</h3><p>鉴于小年糕还很小，加上对疫情还没有底，今年就地过年，然后姥爷在年三十的晚上从山东飞来北京和我们一起过年。初六早上飞机回山东。<br>年三十贴好了春联，除夕夜也是包了好多饺子，因为要带小年糕，今年春晚没怎么看呢。初一早晨吃饺子，我吃到了两枚硬币，小年糕妈妈又挑了两个有硬币的饺子放到我碗里，哈哈哈，相当于今年吃到了4个钱币，托小年糕和年糕妈妈的福，希望今年兔然暴富！</p><h4 id="拜年"><a href="#拜年" class="headerlink" title="拜年"></a>拜年</h4><ul><li>初一大清早，小年糕就收到了姥姥姥爷爸爸妈妈的红包，尽管还不会说恭喜发财，但从表情上来说，小年糕还是很开心的。今天小年糕破天荒的拉了两泡屎，都是在我竖抱她的时候，年糕妈妈说这是小年糕给的金子(喜极而泣)。然后吃完早餐，带着小年糕分别和爷爷奶奶小甜甜还有轩哥哥一一拜年。终于也体验了一把收红包的快乐。</li><li>初二中午闲来无事，跟姥爷和年糕妈妈去试驾了特斯拉model 3，总体上来说还是挺喜欢的，估计进你那北京新能源牌照下来就准备买了吧(初五决定买model Y)。</li><li>初三小五他们来给玩，给小年糕包了个大红包，还精心挑选了个有意义的红包封面，真的有心了啊。</li><li>初四没什么安排，基本就是宅在家中带娃。姥姥姥爷去了趟颐和园，中途看还有时间，姥爷又带姥姥去看车了。哈哈哈，他俩一致同意买model Y。</li><li>初五姥姥生日，我们去了趟山姆买了蛋糕，因为明早姥爷要做飞机回山东，傍晚又包了饺子吃。</li></ul><h4 id="寄语"><a href="#寄语" class="headerlink" title="寄语"></a>寄语</h4><p>总体上来说今年的春节过的虽然年味不是很足，但是过的还是蛮舒心的。有了小年糕，感觉自己也在慢慢的去承担一些家庭琐事了。比如年夜饭、招待亲朋好友等！算是身份的变化吧，开始为下一代着想，或者有了下一代，其实生活上也是充满的希望。  </p><p><img src="/post_images/2023/xnkl.jpg" alt="新年快乐"> </p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2023年计划</title>
+    <link href="/2023/01/01/2023/2023-plan/"/>
+    <url>/2023/01/01/2023/2023-plan/</url>
+    
+    <content type="html"><![CDATA[<h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>新年伊始，国内终于要也群体免疫了，看来疫情短时间内是结束不了了，只能尽量减少感染次数。不过时间继续流逝，计划还是得做好。</p><ul><li>读书：今年要读十本书、需要涉及UE5、少儿教育、经济理论、技术前沿、时间管理、情绪管理</li><li>视频：涉及游戏技术、后端技术</li><li>电影：5部较为轻松的高分电影</li><li>博客：争取每周都能够有技术或者热点输出，保持自己的兴趣嗅觉</li><li>游戏：玩4部以上的游戏</li><li>旅游：国内能够去三座城市，打算出境旅游一次，日本、韩国、香港(中国的)</li></ul><h3 id="经济"><a href="#经济" class="headerlink" title="经济"></a>经济</h3><p>今年虽然是很好的投资年，可是很多资金都套在了币圈。不过也做一些计划吧</p><ul><li>争取币圈的自己本金能够出来，剩余的利润就让它滚着吧</li><li>争取把南宁的房贷还清，争取不再有任何欠款</li><li>今年牌照下来了，买辆车</li></ul><h3 id="职业"><a href="#职业" class="headerlink" title="职业"></a>职业</h3><p>这几年估计职业上不会有很大的进步，一来转型做了后端，二来刚刚有宝宝，需要花较多精力在娃身上</p><h3 id="育儿"><a href="#育儿" class="headerlink" title="育儿"></a>育儿</h3><p>今年有了baby，这是需要计划的。而且也要做好周全的计划</p><ul><li><p>购物：婴儿一岁之前的物品：玩具、爬行垫、安全座椅、围栏、婴儿读物、一部分育儿书</p></li><li><p>假期：需要花大部分假期时间来陪孩子，周末争取出去玩，让孩子有充足的娱乐时间和与家人待在一起的时间</p></li><li><p>户口：暂时落户南宁，需要添加近工作居住证。并且做好计划如何落户天津</p></li><li><p>学习</p><ul><li>购买Unreal <a href="https://www.unrealengine.com/marketplace/zh-CN/product/massive-rpg-systems">rpg学习资料</a><br><img src="/post_images/2023/wzry.jpg" alt="王者荣耀"></li></ul></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2022年年终总结</title>
+    <link href="/2022/12/31/2022/2022-annual-summary/"/>
+    <url>/2022/12/31/2022/2022-annual-summary/</url>
+    
+    <content type="html"><![CDATA[<h3 id="个人知识概述"><a href="#个人知识概述" class="headerlink" title="个人知识概述"></a>个人知识概述</h3><p>今年在技术积累上偏少，太多的时间点都花在了投资上，而碎片的时间都拿来看娱乐或者影视了。</p><ul><li><h4 id="书籍-微信读书，囊括情绪、游戏、金融、备孕"><a href="#书籍-微信读书，囊括情绪、游戏、金融、备孕" class="headerlink" title="书籍(微信读书，囊括情绪、游戏、金融、备孕)"></a>书籍(微信读书，囊括情绪、游戏、金融、备孕)</h4><ul><li>非暴力性沟通</li><li>遥远的救世主</li><li>岩田先生</li><li>沸腾新十年</li><li>简明世界史</li><li>腾讯游戏开发精粹</li><li>穷查理宝典</li><li>趋势交易</li><li>投资最重要的事</li><li>货币金融学</li><li>原则</li><li>阶层跃迁</li><li>轻松备孕、助孕</li><li>妇产科医生说备孕</li></ul></li><li><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>香帅的北大金融课程(得到app)</li><li>UE4官网视频教学(240课时)</li><li>UE4 Moba分布式网络游戏教程(AbountCG)</li><li>UE4 FPS in C++ (UDemy)</li></ul></li><li><h4 id="音乐-节选网易云、qq音乐"><a href="#音乐-节选网易云、qq音乐" class="headerlink" title="音乐(节选网易云、qq音乐)"></a>音乐(节选网易云、qq音乐)</h4><ul><li>中国新说唱(攀登、飘向远方、差不多姑娘)</li><li>艺人：邓紫棋、李荣浩、毛不易</li></ul></li><li><h4 id="影视"><a href="#影视" class="headerlink" title="影视"></a>影视</h4><ul><li>鸡毛飞上天</li><li>你是我的荣耀</li><li>觉醒年代</li><li>漫威复联四、蜘蛛侠；DC正联联盟、神奇女侠</li><li>哪吒、唐人街探案</li><li>抖音影评：梅林传奇、黄石、梅普露(日本游戏动画)</li><li>漫画：海贼王、一拳超人</li></ul></li><li><h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><ul><li>仙剑奇侠传七</li><li>古剑奇谭三</li><li>轩辕剑三</li><li>DOTA2(TI10)</li><li>CS GO</li><li>手游：王者荣耀、和平精英、英雄联盟</li></ul></li><li><h4 id="电子产品"><a href="#电子产品" class="headerlink" title="电子产品"></a>电子产品</h4><ul><li>小米多看阅读pro</li><li>iphone 13</li><li>razer 头戴式蓝牙耳机</li></ul></li><li><h4 id="旅行"><a href="#旅行" class="headerlink" title="旅行"></a>旅行</h4><ul><li>武汉出差</li><li>南宁三街两巷</li></ul></li></ul><h3 id="工作总结"><a href="#工作总结" class="headerlink" title="工作总结"></a>工作总结</h3><p>今年是来qt的第一年，算是跨行业的一个开端，工作上其实没有什么突破，更多的算是基础入门，也没有特别优秀的地方</p><ul><li><h4 id="Zion团队"><a href="#Zion团队" class="headerlink" title="Zion团队"></a>Zion团队</h4><ul><li>工作内容：window network管理；虚机cpu、内存、双虚机切换管理；与前端交服务编写；</li><li>编程语言：PowerShell、C++、TypeScript、NodeJs</li><li>技能：electron、grpc、win32 api、protobuff、反编译vmconnect代码并找到增强模式失败原因</li></ul></li><li><h4 id="WatchTower团队"><a href="#WatchTower团队" class="headerlink" title="WatchTower团队"></a>WatchTower团队</h4><ul><li>工作内容：流量获取、重放；数据埋点、账号溯源、web后台前端</li><li>编程语言：python、lua、TpyeScript</li><li>技能：openresty、chrome extensions、selenium、chrome dev tools、qt-ui-design</li></ul></li><li><h4 id="个人业绩"><a href="#个人业绩" class="headerlink" title="个人业绩"></a>个人业绩</h4><ul><li>六边形3D地形及自动寻路</li><li>UE4、cocos creator入门</li><li>OpenGL梳理</li></ul></li></ul><h3 id="投资支出"><a href="#投资支出" class="headerlink" title="投资支出"></a>投资支出</h3><p>今年在币圈投资的金额占比过大，已经严重影响到生活开支；对于生活在情感上缺乏关爱，争吵不断，家庭出现了危机；股票上今年全部靠股转债打新。</p><ul><li>薪酬 30~50w(薪资涨幅10%)</li><li>币圈 50~100w(回报率200%[未交易])</li><li>私募 10W以内(回报率1000%[未交易])</li><li>股市 1w以内(回报率90%)</li><li>黄金 2W(亏损10%)</li><li>旅行电子产品周边 2w以内</li></ul><h3 id="生活情感"><a href="#生活情感" class="headerlink" title="生活情感"></a>生活情感</h3><p>今年过的算是比较糟糕的。疫情打乱了一些计划，比如结婚一周年、比如想去哈尔滨、成都；资金的管理混乱，资金短缺造成了生活上的烦恼，情绪上的失控。比如去青海湖；对于情感方面，因为个人的倔强、对生活的不认真、言语上的不沟通。导致家庭间产生了巨大隔阂与矛盾。事情太多也关乎隐私就不细谈，希望能够加以改正，直面问题。</p><ul><li><h4 id="美食"><a href="#美食" class="headerlink" title="美食"></a>美食</h4><ul><li>很久很久以前(烤羊肉串)</li><li>潮汕牛肉火锅</li><li>山姆榴莲千层、青椰、牛羊排等</li><li>里建卷筒粉</li></ul></li></ul><p><u>回望2021，国外疫情肆虐，国内安全稳步。疫情改变了许多，消极的、积极的、机遇、环境、态度、内卷等，这些词语构成了我的2021。有过遗憾、徘徊、迷茫。但也确定、肯定及坚信，不论怎么样的时代怎么样的环境，不忘初心，沉着，听取意见。2021，是我莽撞的一年，也是我最应该牢记、反思、端正态度的一年。展望2022，我需要带上我2021所有的反思、改正、遗憾以及敬畏。去端正态度，好好的规划好2022人生。让生活回归平静平凡，健康、积极、乐观，拥有一个令人向往及留恋的2022。要给自己2021年的评价就是：<em><strong>迷途知返，心怀感恩</strong></em></u></p><p><img src="/post_images/2022/lfphz.jpg" alt="地牢破坏者"> </p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>八月笔记</title>
+    <link href="/2022/08/03/2022/note/2022-08-03/"/>
+    <url>/2022/08/03/2022/note/2022-08-03/</url>
+    
+    <content type="html"><![CDATA[<h3 id="计划与实施"><a href="#计划与实施" class="headerlink" title="计划与实施"></a>计划与实施</h3><ul><li>恍惚间，大半年又过去了，感觉自己什么事情都没有做，计划好的事情也没有实施。</li></ul><h3 id="Q3计划"><a href="#Q3计划" class="headerlink" title="Q3计划"></a>Q3计划</h3><ul><li>做好每周记录，每周必须记录做的有意义的一件事情。不限工作、生活、感情</li><li>从今往后，每周做一次视频剪辑并归纳好</li><li>每周末一定要花一个小时做好总结及反思，写下来做了什么，真么没有做好，什么需要改进，就跟周报一样。</li><li>每周一定要做好UE5的笔记，从现在开始要每周进步一点点。<br><img src="/post_images/2022/jianwangsan.jpeg" alt="剑网三"></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>七月笔记</title>
+    <link href="/2022/07/08/2022/note/2022-07-08/"/>
+    <url>/2022/07/08/2022/note/2022-07-08/</url>
+    
+    <content type="html"><![CDATA[<h3 id="计划与实施"><a href="#计划与实施" class="headerlink" title="计划与实施"></a>计划与实施</h3><ul><li>电脑买回来，将UE5安装好，跑了下光追的demo。然后就彻底忘记这回事了，感觉自己并没有做好计划。</li><li>转头就下载了steam，装起了游戏，玩的不亦乐乎。装电脑的初衷忘的一干二净。</li><li>说好的看书学习、胎教、照顾宝宝。这些事情好像都抛在了脑后，说好的每周出去游玩，做好视频剪辑，也是做的马马虎虎。</li></ul><h3 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h3><ul><li>本周工作上十分忙乎，因为转后端python开发，但是并没有做好代码的编写，小bug无数。愧对十一年的程序员。</li><li>工作安排的不够明确，重复性太多，挑战性太少，学了siddhi、但项目实际使用上并没有多大的帮助；chrome插件写了一些但是还是逃不开前端的技术栈，也不够精通。容易偷懒</li><li>后端、运维技术栈缺的很多，目前自己也不是很肯学。需要时间给自己缓冲</li><li>在待人处事上容易带感情，心态太高了。得做好反思<br><img src="/post_images/2022/pubg.jpg" alt="绝地求生"></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>六一儿童节快乐</title>
+    <link href="/2022/06/01/2022/note/2022-06-01/"/>
+    <url>/2022/06/01/2022/note/2022-06-01/</url>
+    
+    <content type="html"><![CDATA[<h3 id="Children’s-Day"><a href="#Children’s-Day" class="headerlink" title="Children’s Day"></a>Children’s Day</h3><p>又到了儿童节了，但是今年感觉不一样。对于自己身份的变化，对于家庭的责任。有了些许期待  </p><h3 id="gift"><a href="#gift" class="headerlink" title="gift"></a>gift</h3><p>说实话，没有准备礼物给天娇是最大的遗憾，今年最流行的是肯德基的可达鸭，可是因为自己的疏忽没有买到，最后只能去闲鱼找一个代工的，可是货还是没有送到。以后汲取教训，一定要在节日提前一个月就买好礼物，好好顾家<img src="/post_images/2022/kedaya.gif" alt="可达鸭">  </p><h3 id="for-self"><a href="#for-self" class="headerlink" title="for self"></a>for self</h3><ol><li>昨晚八点起，京东的618活动开启了，我还是没有忍住自己的手配置了一台台式机(总价9077) <ul><li>id-cooling 360水冷 ——388</li><li>振华750电源—————643</li><li>普力魔620q v2————-633</li><li>B660 迫击炮wifi+12700f—2879</li><li>金百达 16G*4 3600 ——–767</li><li>RTX3070 ——————–3777</li></ul></li><li>对于我自己而言，现在做python其实并不是一个能够持久的工作，总觉得自己缺少激情变成了混日子。但是又不得不面对生活生的困窘，事业上真的没有什么进取心及精力。我需要对自己做一次深入的反思然后下好定论(下一篇章反思)</li><li>游戏圈应该是回不去了，但是想做一些能够对孩子有意义的事情，这几年在家庭上亏欠太多。补是永远补不完的，得快速行动起来，时过境迁，要珍惜当下，把握好这个家庭。<br><img src="/post_images/2022/ertong.png" alt="儿童节快乐"></li></ol>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>learn_ue_may</title>
+    <link href="/2022/05/01/2022/ue/2022-05-01/"/>
+    <url>/2022/05/01/2022/ue/2022-05-01/</url>
+    
+    <content type="html"><![CDATA[<h3 id="3D-GAME-SHADER-FOR-BEGINNER"><a href="#3D-GAME-SHADER-FOR-BEGINNER" class="headerlink" title="3D-GAME-SHADER-FOR-BEGINNER"></a>3D-GAME-SHADER-FOR-BEGINNER</h3><ul><li><a href="https://github.com/lettier/3d-game-shaders-for-beginners">游戏渲染变成入门</a><ul><li><a href="https://github.com/lettier/3d-game-shaders-for-beginners">下载github</a></li><li>编译(<a href="https://github.com/lettier/3d-game-shaders-for-beginners/issues/22">mac下shader显示有问题</a>) <figure class="highlight gradle"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs gradle">clang++ -c src<span class="hljs-regexp">/main.cxx -o 3d-game-shaders-for-beginners.o -std=gnu++11 -g -O2 -I/</span>Library<span class="hljs-regexp">/Developer/</span>Panda3D/<span class="hljs-keyword">include</span><br><br>clang++ <span class="hljs-number">3</span>d-game-shaders-<span class="hljs-keyword">for</span>-beginners.o -o <span class="hljs-number">3</span>d-game-shaders-<span class="hljs-keyword">for</span>-beginners -L<span class="hljs-regexp">/Library/</span>Developer<span class="hljs-regexp">/Panda3D/</span>lib -lp3framework -lpanda -lpandafx -lpandaexpress -lpandaphysics -lp3dtoolconfig -lp3dtool -lpthread<br><br>DYLD_LIBRARY_PATH=<span class="hljs-regexp">/Library/</span>Developer<span class="hljs-regexp">/Panda3D/</span>lib ./<span class="hljs-number">3</span>d-game-shaders-<span class="hljs-keyword">for</span>-beginners<br></code></pre></td></tr></table></figure></li></ul></li></ul><h4 id="高质量实时渲染"><a href="#高质量实时渲染" class="headerlink" title="高质量实时渲染"></a>高质量实时渲染</h4><ul><li><a href="https://www.bilibili.com/video/BV1YK4y1T7yY?spm_id_from=333.788.top_right_bar_window_history.content.click">高质量实时渲染(未完成)</a></li></ul><p><img src="/post_images/2022/aedfh.webp" alt="艾尔登法环"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>UE</tag>
+      
+      <tag>Game</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>learn_ue_april</title>
+    <link href="/2022/04/17/2022/ue/2022-04-17/"/>
+    <url>/2022/04/17/2022/ue/2022-04-17/</url>
+    
+    <content type="html"><![CDATA[<h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/136753628">GAME101-现代计算机图形学入门 阅读笔记</a></li><li><a href="https://zhuanlan.zhihu.com/p/495389119?utm_source=wechat_session&utm_medium=social&utm_oi=1330492405716647936">GAME104-Game Engine引擎架构</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>现代计算机图形学入门 <a href="https://www.bilibili.com/video/BV1X7411F744?p=5&spm_id_from=pageDriver">GAME101-闫令琪</a></li></ul><h4 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h4><p>将creator上的《幽灵射手》完全有purets UE4实现(未完成)</p><ul><li>参考 <a href="https://www.zhihu.com/zvideo/1466483392136712192">幽灵射手</a></li></ul><p><img src="/post_images/2022/jxqy.jpeg" alt="剑侠情缘"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>UE</tag>
+      
+      <tag>Game</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>learn_ue_march</title>
+    <link href="/2022/03/22/2022/ue/2022-03-22/"/>
+    <url>/2022/03/22/2022/ue/2022-03-22/</url>
+    
+    <content type="html"><![CDATA[<h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/477799165">渲染LightMap</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li><p><a href="https://www.bilibili.com/video/BV1D34y1b7uh/">Stack-O-Bot项目探索UE5功能</a></p></li><li><p><a href="https://www.youtube.com/watch?v=9fqMCSaQ1Nk">YOUTUBE-overview-Stack-O-Bot</a></p></li><li><p><a href="https://www.bilibili.com/video/BV1P3411p7K1?spm_id_from=0.0.header_right.fav_list.click">Slay工作流程教程</a></p></li></ul><p><img src="/post_images/2022/mrzh.jpeg" alt="明日之后"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>UE</tag>
+      
+      <tag>Game</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>learn_ue5</title>
+    <link href="/2022/02/28/2022/ue/learn-ue5/"/>
+    <url>/2022/02/28/2022/ue/learn-ue5/</url>
+    
+    <content type="html"><![CDATA[<h4 id="碎碎"><a href="#碎碎" class="headerlink" title="碎碎"></a>碎碎</h4><p>这个月刚好是新年伊始，然后UE5_Preview版本也出了，还出了个demo，于是就打算搞起来了，说实话，知乎上讲UE5的文章越来越多了，但是还是喜欢大钊的博客。所以文末给了insideUE5的链接，能够受益匪浅的。</p><h3 id="初学者包"><a href="#初学者包" class="headerlink" title="初学者包"></a>初学者包</h3><p>整个包体其实不是很大，比原先预览版的大地图小很多。不过该有的内容都有</p><ul><li><a href="https://www.unrealengine.com/zh-CN/tech-blog/download-an-unreal-engine-5-early-access-game-starter-kit-featuring-a-small-robot">初学者包</a></li></ul><p><img src="/post_images/2022/zhilang.jpg" alt="只狼"></p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/464013151">虚幻5渲染编程</a>  </li><li><a href="https://www.zhihu.com/column/insideue4">InsideUE5)</a></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>UE</tag>
+      
+      <tag>Game</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Learnning_ue</title>
+    <link href="/2022/01/15/2022/ue/Learnning-ue/"/>
+    <url>/2022/01/15/2022/ue/Learnning-ue/</url>
+    
+    <content type="html"><![CDATA[<h4 id="UE"><a href="#UE" class="headerlink" title="UE"></a>UE</h4><p>重拾UE学习。视频就不看了，以前记得的内容也都忘记了，现在就重新学习吧，也是从一个简单的游戏开始，</p><h3 id="puerts"><a href="#puerts" class="headerlink" title="puerts"></a>puerts</h3><p>最近用的是ts(js),索性这回写游戏就用ts吧。于是乎就发现了腾讯大佬开源的puerts。这不，第一个游戏就出来了。回头再补充相关的说明文档吧，群也加了，就是要好好学学。</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://github.com/Tencent/puerts">puerts</a>  </li><li><a href="https://github.com/chexiongsheng/puerts_fps_demo">第一个UE案例(FPS)</a></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>UE</tag>
+      
+      <tag>Game</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2022 plan</title>
+    <link href="/2022/01/03/2022/2022-plan/"/>
+    <url>/2022/01/03/2022/2022-plan/</url>
+    
+    <content type="html"><![CDATA[<h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>新的一年新的征程，但愿今年疫情能有有所控制。2022，我畅想了好多、好久，也不知道该把哪个事情安排到计划里面，思考的越久，越觉得自己需要做的事情太多了</p><ul><li><h4 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h4><ul><li>关于读书，有太多的书需要我去读了，技术类、管理类、生活类、家庭类、包括育儿类。不过还是继续立flag吧，小米阅读器争取每天随身携带。</li><li>每天的极客时间是一个好的习惯，但是尽量减少盯手机的时间。</li><li>平常上班多泡在技术论坛上，少刷一些知乎、微博、朋友圈。</li></ul></li><li><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>视频目前有一个想法，打算自己拍摄视频记录一些值得记录的时刻。所以相应的需要去b站学习一些摄影和剪辑技巧</li><li>主要还是去b站学习UE的视频，加深自己对行业的嗅觉。对于技术类的影视可以1.25倍数快速看。</li></ul></li><li><h4 id="音乐及影视"><a href="#音乐及影视" class="headerlink" title="音乐及影视"></a>音乐及影视</h4><ul><li>这方面其实没有什么计划安排，只需要涉猎一点点就好。</li></ul></li><li><h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><ul><li>说到游戏，去年开始其实在游戏上也已经减少了游玩时间，不过一些大作还是可以稍微去玩，手机的游戏其实没必要去玩太多，大多数还达不到3A级别，就算国民游戏&lt;王者荣耀&gt;，也是没必要玩了。已经过了那个年龄了。</li></ul></li><li><h4 id="电子产品"><a href="#电子产品" class="headerlink" title="电子产品"></a>电子产品</h4><ul><li>今年还是会有1~2W的支出在电子产品上，更新显卡、手机、大疆poket2、戴森净化机等吧。</li></ul></li><li><h4 id="旅行"><a href="#旅行" class="headerlink" title="旅行"></a>旅行</h4><ul><li>暂未定义，可能去趟环球影城、哈尔滨、广州、上海迪士尼</li></ul></li><li><h4 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h4><ul><li>坚持每天刷一题leetcode</li><li>坚持每周更新博客、github</li><li>坚持每月读一本书</li><li>每个季度能够产出优质的UE文章(前期可以以学习为主)</li></ul></li></ul><h3 id="工作计划"><a href="#工作计划" class="headerlink" title="工作计划"></a>工作计划</h3><p>没什么意外的话qt将会上市，wt项目也会面向市场，所以今年工作计划更多的是打磨wt项目至成功上线，而个人学习上应该是全面投入ue了。一切算是计划之内的事情。</p><h3 id="投资支出"><a href="#投资支出" class="headerlink" title="投资支出"></a>投资支出</h3><p>今年不打算投资支出了，虽然看多中国，但是从市场上的经济评估来说，可能金融危机会开始显现。对于如果度过金融危机，那就是能囤多少粮食就囤吧。目前就是等待币圈资金回笼，然后将房贷全部还上，手里囤rmb，等待一个时机再做投资，大概率上今年没有一个好的投资信号。</p><h3 id="生活情感"><a href="#生活情感" class="headerlink" title="生活情感"></a>生活情感</h3><p>准备要baby。 </p><p><u>2022，注定是变革一年，市场风云变幻、疫情肆虐、qt等待上市，今年将是一个充满着挑战、机遇及蜕变的一年，等待时机吧！现在要做的就是多充实自己，多让自己更快拥抱变化。<em><strong>2022，我们一起改变</strong></em></u></p><p><img src="/post_images/2022/plan/xyj.jpeg" alt="轩辕剑"> </p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2021年年终总结</title>
+    <link href="/2021/12/29/2021/2021-annual-summary/"/>
+    <url>/2021/12/29/2021/2021-annual-summary/</url>
+    
+    <content type="html"><![CDATA[<h3 id="个人知识概述"><a href="#个人知识概述" class="headerlink" title="个人知识概述"></a>个人知识概述</h3><p>今年在技术积累上偏少，太多的时间点都花在了投资上，而碎片的时间都拿来看娱乐或者影视了。</p><ul><li><h4 id="书籍-微信读书，囊括情绪、游戏、金融、备孕"><a href="#书籍-微信读书，囊括情绪、游戏、金融、备孕" class="headerlink" title="书籍(微信读书，囊括情绪、游戏、金融、备孕)"></a>书籍(微信读书，囊括情绪、游戏、金融、备孕)</h4><ul><li>非暴力性沟通</li><li>遥远的救世主</li><li>岩田先生</li><li>沸腾新十年</li><li>简明世界史</li><li>腾讯游戏开发精粹</li><li>穷查理宝典</li><li>趋势交易</li><li>投资最重要的事</li><li>货币金融学</li><li>原则</li><li>阶层跃迁</li><li>轻松备孕、助孕</li><li>妇产科医生说备孕</li></ul></li><li><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>香帅的北大金融课程(得到app)</li><li>UE4官网视频教学(240课时)</li><li>UE4 Moba分布式网络游戏教程(AbountCG)</li><li>UE4 FPS in C++ (UDemy)</li></ul></li><li><h4 id="音乐-节选网易云、qq音乐"><a href="#音乐-节选网易云、qq音乐" class="headerlink" title="音乐(节选网易云、qq音乐)"></a>音乐(节选网易云、qq音乐)</h4><ul><li>中国新说唱(攀登、飘向远方、差不多姑娘)</li><li>艺人：邓紫棋、李荣浩、毛不易</li></ul></li><li><h4 id="影视"><a href="#影视" class="headerlink" title="影视"></a>影视</h4><ul><li>鸡毛飞上天</li><li>你是我的荣耀</li><li>觉醒年代</li><li>漫威复联四、蜘蛛侠；DC正联联盟、神奇女侠</li><li>哪吒、唐人街探案</li><li>抖音影评：梅林传奇、黄石、梅普露(日本游戏动画)</li><li>漫画：海贼王、一拳超人</li></ul></li><li><h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><ul><li>仙剑奇侠传七</li><li>古剑奇谭三</li><li>轩辕剑三</li><li>DOTA2(TI10)</li><li>CS GO</li><li>手游：王者荣耀、和平精英、英雄联盟</li></ul></li><li><h4 id="电子产品"><a href="#电子产品" class="headerlink" title="电子产品"></a>电子产品</h4><ul><li>小米多看阅读pro</li><li>iphone 13</li><li>razer 头戴式蓝牙耳机</li></ul></li><li><h4 id="旅行"><a href="#旅行" class="headerlink" title="旅行"></a>旅行</h4><ul><li>武汉出差</li><li>南宁三街两巷</li></ul></li></ul><h3 id="工作总结"><a href="#工作总结" class="headerlink" title="工作总结"></a>工作总结</h3><p>今年是来qt的第一年，算是跨行业的一个开端，工作上其实没有什么突破，更多的算是基础入门，也没有特别优秀的地方</p><ul><li><h4 id="Zion团队"><a href="#Zion团队" class="headerlink" title="Zion团队"></a>Zion团队</h4><ul><li>工作内容：window network管理；虚机cpu、内存、双虚机切换管理；与前端交服务编写；</li><li>编程语言：PowerShell、C++、TypeScript、NodeJs</li><li>技能：electron、grpc、win32 api、protobuff、反编译vmconnect代码并找到增强模式失败原因</li></ul></li><li><h4 id="WatchTower团队"><a href="#WatchTower团队" class="headerlink" title="WatchTower团队"></a>WatchTower团队</h4><ul><li>工作内容：流量获取、重放；数据埋点、账号溯源、web后台前端</li><li>编程语言：python、lua、TpyeScript</li><li>技能：openresty、chrome extensions、selenium、chrome dev tools、qt-ui-design</li></ul></li><li><h4 id="个人业绩"><a href="#个人业绩" class="headerlink" title="个人业绩"></a>个人业绩</h4><ul><li>六边形3D地形及自动寻路</li><li>UE4、cocos creator入门</li><li>OpenGL梳理</li></ul></li></ul><h3 id="投资支出"><a href="#投资支出" class="headerlink" title="投资支出"></a>投资支出</h3><p>今年在币圈投资的金额占比过大，已经严重影响到生活开支；对于生活在情感上缺乏关爱，争吵不断，家庭出现了危机；股票上今年全部靠股转债打新。</p><ul><li>薪酬 30~50w(薪资涨幅10%)</li><li>币圈 50~100w(回报率200%[未交易])</li><li>私募 10W以内(回报率1000%[未交易])</li><li>股市 1w以内(回报率90%)</li><li>黄金 2W(亏损10%)</li><li>旅行电子产品周边 2w以内</li></ul><h3 id="生活情感"><a href="#生活情感" class="headerlink" title="生活情感"></a>生活情感</h3><p>今年过的算是比较糟糕的。疫情打乱了一些计划，比如结婚一周年、比如想去哈尔滨、成都；资金的管理混乱，资金短缺造成了生活上的烦恼，情绪上的失控。比如去青海湖；对于情感方面，因为个人的倔强、对生活的不认真、言语上的不沟通。导致家庭间产生了巨大隔阂与矛盾。事情太多也关乎隐私就不细谈，希望能够加以改正，直面问题。</p><ul><li><h4 id="美食"><a href="#美食" class="headerlink" title="美食"></a>美食</h4><ul><li>很久很久以前(烤羊肉串)</li><li>潮汕牛肉火锅</li><li>山姆榴莲千层、青椰、牛羊排等</li><li>里建卷筒粉</li></ul></li></ul><p><u>回望2021，国外疫情肆虐，国内安全稳步。疫情改变了许多，消极的、积极的、机遇、环境、态度、内卷等，这些词语构成了我的2021。有过遗憾、徘徊、迷茫。但也确定、肯定及坚信，不论怎么样的时代怎么样的环境，不忘初心，沉着，听取意见。2021，是我莽撞的一年，也是我最应该牢记、反思、端正态度的一年。展望2022，我需要带上我2021所有的反思、改正、遗憾以及敬畏。去端正态度，好好的规划好2022人生。让生活回归平静平凡，健康、积极、乐观，拥有一个令人向往及留恋的2022。要给自己2021年的评价就是：<em><strong>迷途知返，心怀感恩</strong></em></u></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>inside_creator_3_astart</title>
+    <link href="/2021/02/28/2021/creator/inside_creator_3_astart/"/>
+    <url>/2021/02/28/2021/creator/inside_creator_3_astart/</url>
+    
+    <content type="html"><![CDATA[<h4 id="导航"><a href="#导航" class="headerlink" title="导航"></a>导航</h4><p>地图已经制作完成的话，就需要导航，让角色走到指定位置，并且自动避开障碍物.从而产生了寻路算法，市面上很多算法,A<em>、D</em>、导航网格等，但万变不离其宗，都是要找出最近的路。我只拿最简单的A*算法来做</p><h4 id="A-算法"><a href="#A-算法" class="headerlink" title="A*算法"></a>A*算法</h4><ol><li>将起始节点加入open列表中</li><li>判断open节点，空则搜索失败，如果open列表存在目标节点，则搜索成功</li><li>根据F &#x3D; G + H从open列表中找出F最小的节点作为当前节点，并将其加入close列表中</li><li>计算当前节点相邻的六个节点(排除障碍物)，组成一组子节点，对每个子节点做判断<ul><li>如果该节点在close列表中，丢弃。</li><li>如果该节点在open列表中，检查当前节点的F值是否更小，如果更小则更新F值，并将父节点设置为当前节点</li><li>如果该节点不在open列表中，则将其假如open列表，并计算F值，设置其父节点为当前节点</li></ul></li><li>重复2步骤</li></ol><h4 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h4><p><img src="/post_images/2021/creator/3_1.jpg" alt="效果图"> </p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/112849816">六边形A*算法</a></li><li><a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">A*算法简述(英文)</a></li><li><a href="https://www.cnblogs.com/iwiniwin/p/10793654.html">A*算法简述(中文)</a>  </li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/3_find_astar">github示例</a></li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>inside_creator_2_hexagon_terrain</title>
+    <link href="/2021/02/20/2021/creator/inside_creator_2_hexagon_terrain/"/>
+    <url>/2021/02/20/2021/creator/inside_creator_2_hexagon_terrain/</url>
+    
+    <content type="html"><![CDATA[<h4 id="地形网格"><a href="#地形网格" class="headerlink" title="地形网格"></a>地形网格</h4><p>游戏，少不了地图，而地图就需要有坐标，有正方形、六边形等，这里采用六边形是因为任何对于计算六边形到六边形的距离都是一致的，而正方形一边少，二会出现次相邻情况.如下图，但是其实也各有优劣，视项目情况而定吧。<br><img src="/post_images/2021/creator/2_1.jpg" alt="地形距离比较">  </p><h4 id="地形制作"><a href="#地形制作" class="headerlink" title="地形制作"></a>地形制作</h4><ul><li>制作六边形地形，为了便于调试，制作两个quad地形</li><li>地图设定及相关代码处理</li><li>使用射线检测来添加触摸地形快操作</li></ul><h4 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h4><p><img src="/post_images/2021/creator/2_2.jpg" alt="效果图"> </p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/editor/terrain/">地形Terrain</a></li><li><a href="https://indienova.com/indie-game-development/hex-grids-reference/">六边形设计(中文)</a></li><li><a href="https://www.redblobgames.com/grids/hexagons/">六边形(原版英文)</a>  </li><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/physics/physics-raycast.html?h=screenpointtoray">射线检测</a>  </li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/2_hexagon_terrain">github示例</a></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Game</tag>
+      
+      <tag>Creator</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>inside_creator_1_plugin</title>
+    <link href="/2021/02/15/2021/creator/inside_creator_1_plugin/"/>
+    <url>/2021/02/15/2021/creator/inside_creator_1_plugin/</url>
+    
+    <content type="html"><![CDATA[<h4 id="关于插件"><a href="#关于插件" class="headerlink" title="关于插件"></a>关于插件</h4><p>一般对于游戏开发者，大部分都会与excel打交道，策划给角色或者怪物配置的血量、等级、技能等。关卡信息、奖励道具等。还有美术给的动作名称、技能帧等，包括一些活动配置等游戏中用得到并且在上线前频繁修改的数据，对于这些数据而言，有一个规范、容易编辑、更新的工具对整个项目来说是事半功倍的效果。特此，插件就派上场了。</p><h4 id="插件制作"><a href="#插件制作" class="headerlink" title="插件制作"></a>插件制作</h4><p>插件的制作参考以下链接  </p><ul><li><a href="https://mp.weixin.qq.com/s?__biz=MjM5ODAxNTM2NA==&mid=2659664592&idx=1&sn=9793c8f33cdf2c73b4cbaa9af9944d45&chksm=bda2da3b8ad5532d18296c170e3953f66c0e85ee715f3d75f2e1cafe2219a033cd44c9257aac&scene=178&cur_album_id=1761139408994385920#rd">深入 Cocos Creator 3.0 的插件扩展系统</a>  </li><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/editor/extension/readme.html">扩展编辑器</a></li></ul><h4 id="插件使用"><a href="#插件使用" class="headerlink" title="插件使用"></a>插件使用</h4><ul><li>目录结构<figure class="highlight dsconfig"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs dsconfig"><span class="hljs-string">rootdir</span><br>  |<span class="hljs-built_in">--client</span><br>    |<span class="hljs-built_in">--extensions</span><br>    |<span class="hljs-built_in">--assets</span><br>      |<span class="hljs-built_in">--scripts</span><br>        |<span class="hljs-built_in">--db</span>           <span class="hljs-comment">#最终生成.ts脚本配置的文件夹</span><br>  |<span class="hljs-built_in">--design</span><br>    |<span class="hljs-built_in">--excel</span><br>      |<span class="hljs-built_in">--role.xls</span>       <span class="hljs-comment">#配表文件</span><br>      |<span class="hljs-built_in">--monster.xls</span>    <span class="hljs-comment">#配表文件</span><br>    |<span class="hljs-built_in">--tool</span>             <span class="hljs-comment">#导表等工具</span><br></code></pre></td></tr></table></figure></li><li>策划安装规范定义好excel表</li><li>通过Creator中Developer-&gt;导出即可<br>  1.插件会调用<code>rootdir\design\tool\export2ts.bat</code>(mac下sh)执行python脚本<br>  2.python会将excel文件夹下xls文件导出至<code>\rootdir\client\assets\scripts\db\</code>文件夹中</li><li>python需要安装相关node插件</li><li>相关说明放在<code>tool/readme.md</code>文件内</li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/1_plugin">github示例</a></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Game</tag>
+      
+      <tag>Creator</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2021/01/01/hello-world/"/>
+    <url>/2021/01/01/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo">Hexo</a>! This is your very first post. Check <a href="http://zespia.tw/hexo/docs">documentation</a> to learn how to use.</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
