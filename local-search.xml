@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>UE5-Lyra初学者包学习-GAS</title>
-    <link href="/2023/10/07/2023/ue/2023-10-07/"/>
-    <url>/2023/10/07/2023/ue/2023-10-07/</url>
+    <title>UE4-UnLua</title>
+    <link href="/2023/11/02/2023/ue/2023-11-02/"/>
+    <url>/2023/11/02/2023/ue/2023-11-02/</url>
     
-    <content type="html"><![CDATA[<h3 id="基本知识"><a href="#基本知识" class="headerlink" title="基本知识"></a>基本知识</h3><ul><li>AbilitySystemComponent（ASC）管理Abilities和GamePlayEffects</li><li>GameplayTag 用于标记、描述Ability和Effect等游戏对象，相当于它们的ID</li><li>GameplayAbility(GA) GAS中对于单个技能的实现</li><li>GameplayEffect(GE) GAS中的Buff类</li><li>GameplayCue（GC）GAS中的用于实现表现效果的部分</li></ul><h3 id="如何使用插件"><a href="#如何使用插件" class="headerlink" title="如何使用插件"></a>如何使用插件</h3><ul><li>添加 Game Ablities、Modular Game、Game features这三个plugin</li><li><img src="/post_images/2023/ue/game-ablilitites-plugin.png" alt="gas"></li></ul><h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>成功与不成功之间有时距离很短——只要后者再向前几步。</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://www.zhihu.com/column/c_1395338865515929600?utm_id=0">GAS的知乎介绍</a></li><li><a href="https://mp.weixin.qq.com/s/CtzCDP4a4GZ83920qXeiVq">幻塔GAS介绍</a><ul><li><a href="https://www.bilibili.com/video/BV1tS4y1n7RC">视频介绍</a></li></ul></li><li><a href="https://www.bilibili.com/video/BV16Z4y187LF">GAS入门</a></li><li><a href="https://www.bilibili.com/video/BV1zD4y1X77M">大钊-GAS</a></li><li><a href="https://www.bilibili.com/video/BV1W5411R7wr/">ActionRPG关于GAS讲解</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h3 id="UnLua"><a href="#UnLua" class="headerlink" title="UnLua"></a>UnLua</h3><ul><li>安装UnLua，下载插件然后拷贝至Plugins文件夹，并在Buils.cs文件中添加UnLua module</li><li>在需要使用的蓝图里的Class Settings添加 UnLua Interface 接口，并在Get Module Name中添加lua文件路径</li></ul><h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>不积跬步无以至千里。</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://www.bilibili.com/video/BV1KY4y1r7s5/">UnLua使用</a></li></ul><ul><li><a href="https://github.com/Tencent/UnLua/blob/master/Docs/CN/UnLua_Programming_Guide.md">UnLua github</a></li></ul>]]></content>
     
     
     
@@ -25,13 +25,82 @@
   
   
   <entry>
-    <title></title>
-    <link href="/2023/10/06/2023/ue/2023-10-08/"/>
-    <url>/2023/10/06/2023/ue/2023-10-08/</url>
+    <title>UE4-ActionRPG</title>
+    <link href="/2023/10/30/2023/ue/2023-10-30/"/>
+    <url>/2023/10/30/2023/ue/2023-10-30/</url>
     
-    <content type="html"><![CDATA[<hr><h2 id="title-UE5-Lyra练习excerpt-虚幻引擎学习banner-img-x2F-banner-img-x2F-2023-x2F-ue-x2F-ue5-pngindex-img-x2F-banner-img-x2F-2023-x2F-ue-x2F-ue5-pngdate-2023-10-08-00-00-00tags-UE-Game"><a href="#title-UE5-Lyra练习excerpt-虚幻引擎学习banner-img-x2F-banner-img-x2F-2023-x2F-ue-x2F-ue5-pngindex-img-x2F-banner-img-x2F-2023-x2F-ue-x2F-ue5-pngdate-2023-10-08-00-00-00tags-UE-Game" class="headerlink" title="title: UE5-Lyra练习excerpt: 虚幻引擎学习banner_img: &#x2F;banner_img&#x2F;2023&#x2F;ue&#x2F;ue5.pngindex_img: &#x2F;banner_img&#x2F;2023&#x2F;ue&#x2F;ue5.pngdate: 2023-10-08 00:00:00tags: [UE,Game]"></a>title: UE5-Lyra练习<br>excerpt: 虚幻引擎学习<br>banner_img: &#x2F;banner_img&#x2F;2023&#x2F;ue&#x2F;ue5.png<br>index_img: &#x2F;banner_img&#x2F;2023&#x2F;ue&#x2F;ue5.png<br>date: 2023-10-08 00:00:00<br>tags: [UE,Game]</h2><h3 id="基本知识"><a href="#基本知识" class="headerlink" title="基本知识"></a>基本知识</h3><ul><li>准备通过国庆期间自学的知识复制Lyra</li></ul><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://www.bilibili.com/video/BV11s4y1h7rW">从零开始做Lyra</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h3 id="VS-Code连接"><a href="#VS-Code连接" class="headerlink" title="VS Code连接"></a>VS Code连接</h3><ul><li>安装Unreal Engine 4 Snippets</li><li>将代码编辑器调整为Visual Studio Code<ul><li><img src="/post_images/2023/ue/change.png" alt="调整"></li></ul></li><li>写完代码刷新项目(UE5在Tools-&gt;Refresh visual studio code project)<ul><li><img src="/post_images/2023/ue/generate.png" alt="编译"></li></ul></li><li>如果出现引用红色波浪线，则需要调整.vscode目录下的compileCommands_xxx.json文件<ul><li><img src="/post_images/2023/ue/zhuanyi.png" alt="转义"></li><li><a href="https://forums.unrealengine.com/t/ue-4-27-how-to-fix-issues-in-visual-studio-code-red-squiggles-and-unable-to-resolve-configuration-with-compilerpath-c-program/568488">解决报错</a></li></ul></li></ul><h3 id="ActionRPG"><a href="#ActionRPG" class="headerlink" title="ActionRPG"></a>ActionRPG</h3><ul><li>使用LoadingScreen显示加载页面<ul><li><a href="https://www.bilibili.com/read/cv8437899/">https://www.bilibili.com/read/cv8437899/</a></li></ul></li></ul><h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>抛弃那个懦弱的自己，迎接那个强大的自己吧！</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://gitee.com/gunsun/gas0">GAS介绍</a><ul><li><a href="https://www.bilibili.com/video/BV1vB4y1w7q6">视频简介</a></li><li><a href="https://github.com/BillEliot/GASDocumentation_Chinese">中文翻译</a></li></ul></li><li><a href="https://dev.epicgames.com/community/learning/tutorials/d8Ra/unreal-engine-updating-action-rpg-from-ue4-to-ue5">UE5升级</a></li></ul>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>Game</tag>
+      
+      <tag>UE</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>C++/游戏客户端面试准备</title>
+    <link href="/2023/10/09/2023/2023-10-09/"/>
+    <url>/2023/10/09/2023/2023-10-09/</url>
+    
+    <content type="html"><![CDATA[<h3 id="找工作"><a href="#找工作" class="headerlink" title="找工作"></a>找工作</h3><ul><li>准备看C++、客户端相关的知识，重新整理自己的资料然后找工作了。</li></ul><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/597005422?utm_id=0">C++开发面试题</a></li><li><a href="https://zhuanlan.zhihu.com/p/47869981">史上最全C++开发问题总结</a></li><li><a href="https://zhuanlan.zhihu.com/p/354924000">网络同步在游戏历史中的发展变化</a></li><li><a href="https://docs.unrealengine.com/5.1/zh-CN/gameplay-framework-in-unreal-engine/">UE5的gameplay</a></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>note</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>UE5-Lyra练习</title>
+    <link href="/2023/10/08/2023/ue/2023-10-08/"/>
+    <url>/2023/10/08/2023/ue/2023-10-08/</url>
+    
+    <content type="html"><![CDATA[<h3 id="基本知识"><a href="#基本知识" class="headerlink" title="基本知识"></a>基本知识</h3><ul><li>准备通过国庆期间自学的知识复制Lyra</li></ul><h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><ul><li>人要熬，井要淘。凡事多忍耐，遇人多担待</li></ul><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://www.bilibili.com/video/BV11s4y1h7rW">从零开始做Lyra</a></li><li><a href="https://www.bilibili.com/video/BV1DF411D7oW">Cropout玩法介绍</a></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Game</tag>
+      
+      <tag>UE</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>UE5-Lyra初学者包学习-GAS</title>
+    <link href="/2023/10/07/2023/ue/2023-10-07/"/>
+    <url>/2023/10/07/2023/ue/2023-10-07/</url>
+    
+    <content type="html"><![CDATA[<h3 id="基本知识"><a href="#基本知识" class="headerlink" title="基本知识"></a>基本知识</h3><ul><li>AbilitySystemComponent（ASC）管理Abilities和GamePlayEffects</li><li>GameplayTag 用于标记、描述Ability和Effect等游戏对象，相当于它们的ID</li><li>GameplayAbility(GA) GAS中对于单个技能的实现</li><li>GameplayEffect(GE) GAS中的Buff类</li><li>GameplayCue（GC）GAS中的用于实现表现效果的部分</li></ul><h3 id="如何使用插件"><a href="#如何使用插件" class="headerlink" title="如何使用插件"></a>如何使用插件</h3><ul><li>添加 Game Ablities、Modular Game、Game features这三个plugin</li><li><img src="/post_images/2023/ue/game-ablilitites-plugin.png" alt="gas"></li></ul><h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>成功与不成功之间有时距离很短——只要后者再向前几步。</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://www.zhihu.com/column/c_1395338865515929600?utm_id=0">GAS的知乎介绍</a></li><li><a href="https://mp.weixin.qq.com/s/CtzCDP4a4GZ83920qXeiVq">幻塔GAS介绍</a><ul><li><a href="https://www.bilibili.com/video/BV1tS4y1n7RC">视频介绍</a></li></ul></li><li><a href="https://www.bilibili.com/video/BV16Z4y187LF">GAS入门</a></li><li><a href="https://www.bilibili.com/video/BV1zD4y1X77M">大钊-GAS</a></li><li><a href="https://www.bilibili.com/video/BV1W5411R7wr/">ActionRPG关于GAS讲解</a></li><li><a href="https://zhuanlan.zhihu.com/p/612837045">GamePlay框架</a></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Game</tag>
+      
+      <tag>UE</tag>
+      
+    </tags>
     
   </entry>
   
@@ -63,7 +132,7 @@
     <link href="/2023/10/05/2023/ue/2023-10-05/"/>
     <url>/2023/10/05/2023/ue/2023-10-05/</url>
     
-    <content type="html"><![CDATA[<h3 id="基本动画蓝图"><a href="#基本动画蓝图" class="headerlink" title="基本动画蓝图"></a>基本动画蓝图</h3><ul><li>八项移动、步幅匹配、距离适配</li><li>回转运动</li><li>原地转身(根节点旋转)</li><li>瞄准偏移</li><li>跳跃着陆</li><li>看向镜头(作业)</li><li>Link动画层切换</li><li>转身移动</li></ul><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ul><li>修复动画插件AnimationLocomotion、AnimationWarping</li></ul><h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>再长的路，一步步也能走完，再短的路，不迈开双脚也无法到达</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://www.bilibili.com/video/BV1dT41157pS/?p=5&spm_id_from=pageDriver&vd_source=e8f5bb37b6c6c055e91e3750abf75a39">Lyra动画蓝图制作及解析</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h3 id="基本动画蓝图"><a href="#基本动画蓝图" class="headerlink" title="基本动画蓝图"></a>基本动画蓝图</h3><ul><li>八项移动、步幅匹配、距离适配</li><li>回转运动</li><li>原地转身(根节点旋转)</li><li>瞄准偏移</li><li>跳跃着陆</li><li>看向镜头(作业)</li><li>Link动画层切换</li><li>转身移动</li></ul><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ul><li>修复动画插件AnimationLocomotion、AnimationWarping</li></ul><h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p>再长的路，一步步也能走完，再短的路，不迈开双脚也无法到达</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://www.bilibili.com/video/BV1dT41157pS/?p=5&spm_id_from=pageDriver&vd_source=e8f5bb37b6c6c055e91e3750abf75a39">Lyra动画蓝图制作及解析</a> </li><li><a href="https://zhuanlan.zhihu.com/p/654430436">Lyra动画系统</a></li></ul>]]></content>
     
     
     
